@@ -1,0 +1,76 @@
+# Custom Compliance Standard Example
+# Place this in compliance_standards/ directory
+
+name: "SOC 2 Type II Security Controls"
+description: "Custom compliance checks for SOC 2 Type II security criteria"
+version: "1.0"
+
+checks:
+  - id: "CC6.1"
+    name: "Encryption in Transit"
+    description: "System uses encryption to protect data in transit"
+    severity: "CRITICAL"
+    conditions:
+      - path: "url_info.https_enabled"
+        operator: "equals"
+        value: true
+      - path: "ssl_certificate.is_expired"
+        operator: "equals"
+        value: false
+    operator: "AND"
+    remediation: "Enable HTTPS with valid SSL/TLS certificate"
+  
+  - id: "CC6.6"
+    name: "Security Headers Implementation"
+    description: "System implements security headers to prevent common attacks"
+    severity: "HIGH"
+    conditions:
+      - path: "security_headers.score"
+        operator: "greater_or_equal"
+        value: 70
+    operator: "AND"
+    remediation: "Implement HSTS, CSP, X-Frame-Options headers"
+  
+  - id: "CC6.7"
+    name: "No Server Version Disclosure"
+    description: "System does not disclose server version information"
+    severity: "MEDIUM"
+    conditions:
+      - path: "network_info.headers.server"
+        operator: "not_exists"
+        value: null
+    operator: "OR"
+    remediation: "Configure web server to hide version information"
+  
+  - id: "CC7.2"
+    name: "Access Control - Clickjacking Protection"
+    description: "System prevents clickjacking attacks"
+    severity: "HIGH"
+    conditions:
+      - path: "security_headers.headers.X-Frame-Options.present"
+        operator: "equals"
+        value: true
+    operator: "AND"
+    remediation: "Add X-Frame-Options: DENY or SAMEORIGIN header"
+  
+  - id: "CC7.3"
+    name: "Input Validation - XSS Protection"
+    description: "System has XSS protection via CSP"
+    severity: "HIGH"
+    conditions:
+      - path: "security_headers.headers.Content-Security-Policy.present"
+        operator: "equals"
+        value: true
+    operator: "AND"
+    remediation: "Implement Content-Security-Policy header"
+  
+  - id: "CC8.1"
+    name: "Risk Assessment - Domain Age"
+    description: "Domain is established (>90 days old)"
+    severity: "LOW"
+    conditions:
+      - path: "whois.domain_age_days"
+        operator: "greater_than"
+        value: 90
+    operator: "AND"
+    remediation: "N/A - informational only"

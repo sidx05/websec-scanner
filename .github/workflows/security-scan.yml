@@ -1,0 +1,135 @@
+name: Security Scan
+
+on:
+  pull_request:
+    branches: [ main, master, develop ]
+  push:
+    branches: [ main, master ]
+  schedule:
+    - cron: '0 2 * * *'  # Daily at 2 AM UTC
+
+jobs:
+  security-scan:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+        pip install -r requirements-dev.txt
+    
+    - name: Run linting (flake8)
+      run: |
+        flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
+        flake8 . --count --max-complexity=10 --max-line-length=127 --statistics
+    
+    - name: Run code formatting check (black)
+      run: |
+        black --check .
+    
+    - name: Run unit tests
+      run: |
+        pytest tests/ -v --cov=. --cov-report=term-missing --cov-report=xml
+    
+    - name: Upload coverage reports
+      uses: codecov/codecov-action@v3
+      with:
+        files: ./coverage.xml
+        fail_ci_if_error: false
+    
+    - name: Run security scan
+      id: scan
+      run: |
+        # Scan production URL (set in repo secrets)
+        python raw_scan.py ${{ secrets.PRODUCTION_URL }} > scan_results.json
+        
+        # Extract key metrics
+        COMPLIANCE=$(python -c "import json; print(json.load(open('scan_results.json'))['compliance']['overall_score'])")
+        RISK=$(python -c "import json; print(json.load(open('scan_results.json'))['risk_assessment']['level'])")
+        CRITICAL=$(python -c "import json; recs=json.load(open('scan_results.json'))['recommendations']; print(len([r for r in recs if r['priority']=='CRITICAL']))")
+        
+        echo "compliance=$COMPLIANCE" >> $GITHUB_OUTPUT
+        echo "risk=$RISK" >> $GITHUB_OUTPUT
+        echo "critical=$CRITICAL" >> $GITHUB_OUTPUT
+    
+    - name: Check compliance threshold
+      run: |
+        SCORE=${{ steps.scan.outputs.compliance }}
+        if (( $(echo "$SCORE < 60" | bc -l) )); then
+          echo "❌ FAIL: Compliance score $SCORE% is below 60% threshold"
+          exit 1
+        fi
+        echo "✅ PASS: Compliance score $SCORE%"
+    
+    - name: Check critical issues
+      run: |
+        CRITICAL=${{ steps.scan.outputs.critical }}
+        if [ "$CRITICAL" -gt "0" ]; then
+          echo "⚠️ WARNING: $CRITICAL critical security issues found"
+          python view_recommendations.py scan_results.json
+          exit 1
+        fi
+        echo "✅ No critical issues"
+    
+    - name: Post results to PR
+      if: github.event_name == 'pull_request'
+      uses: actions/github-script@v6
+      with:
+        script: |
+          const fs = require('fs');
+          const results = JSON.parse(fs.readFileSync('scan_results.json', 'utf8'));
+          
+          const body = `## 🔒 Security Scan Results
+          
+          **Compliance Score:** ${results.compliance.overall_score}%
+          **Risk Level:** ${results.risk_assessment.level}
+          **Critical Issues:** ${{ steps.scan.outputs.critical }}
+          
+          ### Standards Compliance
+          ${Object.entries(results.compliance.standards).map(([name, data]) => 
+            `- **${data.standard}**: ${data.score}% (${data.passed}/${data.total})`
+          ).join('\n')}
+          
+          ### Top Recommendations
+          ${results.recommendations.slice(0, 5).map(r => 
+            `- [${r.priority}] ${r.issue}`
+          ).join('\n')}
+          
+          <details>
+          <summary>View full scan report</summary>
+          
+          \`\`\`json
+          ${JSON.stringify(results, null, 2)}
+          \`\`\`
+          </details>`;
+          
+          github.rest.issues.createComment({
+            issue_number: context.issue.number,
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            body: body
+          });
+    
+    - name: Upload scan results
+      uses: actions/upload-artifact@v3
+      with:
+        name: security-scan-${{ github.sha }}
+        path: scan_results.json
+        retention-days: 90
+    
+    - name: Update security badge
+      if: github.ref == 'refs/heads/main'
+      run: |
+        SCORE=${{ steps.scan.outputs.compliance }}
+        COLOR="red"
+        if (( $(echo "$SCORE >= 80" | bc -l) )); then COLOR="brightgreen"; fi
+        if (( $(echo "$SCORE >= 60 && $SCORE < 80" | bc -l) )); then COLOR="yellow"; fi
+        
+        echo "![Security](https://img.shields.io/badge/compliance-${SCORE}%25-${COLOR})" > security-badge.md

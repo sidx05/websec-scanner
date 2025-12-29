@@ -1,0 +1,53 @@
+# Security Research URLs for Testing
+# WARNING: These are test/research sites. Do NOT use for malicious purposes.
+
+# === INTENTIONALLY VULNERABLE TEST SITES (Educational) ===
+# These are maintained for security training/research
+
+http://testphp.vulnweb.com/
+http://testfire.net/
+https://demo.testfire.net/
+http://zero.webappsecurity.com/
+https://public-firing-range.appspot.com/
+http://demo.ine.com/
+
+# === SUSPICIOUS INDICATORS (Legal to scan) ===
+# Sites with security risk factors
+
+# Free TLDs (often used for spam/phishing)
+https://example.tk
+https://test.ml
+https://sample.ga
+
+# HTTP only (no HTTPS)
+http://neverssl.com/
+http://example.org
+http://info.cern.ch/
+
+# Expired/invalid SSL
+https://expired.badssl.com/
+https://wrong.host.badssl.com/
+https://self-signed.badssl.com/
+
+# === SECURITY RESEARCH SITES ===
+# Sites with intentional security issues for testing
+
+https://xss-game.appspot.com/
+http://scanme.nmap.org/
+https://httpbin.org/
+
+# === PHISHING SIMULATION (Training sites) ===
+# Used for security awareness training
+
+https://phishing-simulator.com/
+https://gophish.org/
+
+# === MALWARE ANALYSIS RESOURCES (Safe - not hosting malware) ===
+# Sites that analyze malware without distributing it
+
+https://www.virustotal.com/
+https://www.hybrid-analysis.com/
+https://any.run/
+
+# NOTE: This scanner performs PASSIVE checks only.
+# It does NOT download executables or perform active exploitation.

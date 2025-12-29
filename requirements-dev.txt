@@ -1,0 +1,16 @@
+# Development dependencies for testing and code quality
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-mock>=3.12.0
+
+# Code Quality
+flake8>=6.1.0
+black>=23.12.0
+isort>=5.13.0
+mypy>=1.7.0
+
+# Type stubs for external libraries
+types-PyYAML>=6.0.12
+types-requests>=2.31.0

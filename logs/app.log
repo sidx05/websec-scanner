@@ -1,0 +1,1664 @@
+2025-12-27 20:43:41,263 INFO Scanning: https://www.5movierulz.hockey/
+2025-12-27 20:43:46,632 INFO HTTP Request: GET https://www.5movierulz.hockey/ "HTTP/1.1 200 OK"
+2025-12-27 20:43:47,384 INFO HTTP Request: GET https://www.5movierulz.hockey/ "HTTP/1.1 200 OK"
+2025-12-27 20:43:47,478 INFO Scan complete
+2025-12-27 20:44:11,754 INFO Scanning: https://example.com
+2025-12-27 20:44:17,550 INFO HTTP Request: GET https://example.com/ "HTTP/1.1 200 OK"
+2025-12-27 20:44:22,156 INFO HTTP Request: GET https://example.com/ "HTTP/1.1 200 OK"
+2025-12-27 20:44:22,159 INFO Scan complete
+2025-12-27 20:50:27,980 INFO Scanning: https://www.5movierulz.hockey/
+2025-12-27 20:50:28,166 INFO HTTP Request: GET https://www.5movierulz.hockey/ "HTTP/1.1 200 OK"
+2025-12-27 20:50:29,509 INFO HTTP Request: GET https://www.5movierulz.hockey/ "HTTP/1.1 200 OK"
+2025-12-27 20:50:29,649 INFO Scan complete
+2025-12-27 20:51:50,440 INFO Scanning: https://jiorockers.org.in/
+2025-12-27 20:51:52,805 INFO HTTP Request: GET https://jiorockers.org.in/ "HTTP/1.1 200 OK"
+2025-12-27 20:52:01,372 INFO HTTP Request: GET https://jiorockers.org.in/ "HTTP/1.1 200 OK"
+2025-12-27 20:52:01,553 INFO Scan complete
+2025-12-28 11:48:28,423 INFO Scanning: https://kramersmarionnettes.com/frustrating.php
+2025-12-28 11:48:32,003 INFO HTTP Request: GET https://kramersmarionnettes.com/frustrating.php "HTTP/1.1 410 Gone"
+2025-12-28 11:48:36,031 INFO HTTP Request: GET https://kramersmarionnettes.com/frustrating.php "HTTP/1.1 410 Gone"
+2025-12-28 11:48:36,035 INFO Scan complete
+2025-12-28 11:50:38,892 INFO Scanning: https://movizrulz.com/
+2025-12-28 11:50:42,472 INFO HTTP Request: GET https://movizrulz.com/ "HTTP/1.1 200 OK"
+2025-12-28 11:50:48,317 INFO HTTP Request: GET https://movizrulz.com/ "HTTP/1.1 200 OK"
+2025-12-28 11:50:48,525 INFO Scan complete
+2025-12-28 11:51:12,285 INFO Scanning: https://www.5movierulz.reisen/
+2025-12-28 11:51:16,223 INFO HTTP Request: GET https://www.5movierulz.reisen/ "HTTP/1.1 200 OK"
+2025-12-28 11:51:18,215 INFO HTTP Request: GET https://www.5movierulz.reisen/ "HTTP/1.1 200 OK"
+2025-12-28 11:51:18,392 INFO Scan complete
+2025-12-28 11:54:01,890 INFO Scanning: https://www.5movierulz.reisen/
+2025-12-28 11:54:02,771 INFO HTTP Request: GET https://www.5movierulz.reisen/ "HTTP/1.1 200 OK"
+2025-12-28 11:54:04,660 INFO HTTP Request: GET https://www.5movierulz.reisen/ "HTTP/1.1 200 OK"
+2025-12-28 11:54:04,782 INFO Scan complete
+2025-12-28 12:06:14,836 ERROR Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-12-28 12:07:17,692 INFO Scanning: https://example.com
+2025-12-28 12:07:18,442 INFO HTTP Request: GET https://example.com/ "HTTP/1.1 200 OK"
+2025-12-28 12:07:21,646 INFO HTTP Request: GET https://example.com/ "HTTP/1.1 200 OK"
+2025-12-28 12:07:21,654 INFO Scan complete
+2025-12-28 12:07:21,665 INFO Scanning: https://github.com
+2025-12-28 12:07:22,498 INFO HTTP Request: GET https://github.com/ "HTTP/1.1 200 OK"
+2025-12-28 12:07:25,210 INFO HTTP Request: GET https://github.com/ "HTTP/1.1 200 OK"
+2025-12-28 12:07:25,618 INFO Scan complete
+2025-12-28 12:07:25,655 INFO Scanning: https://stackoverflow.com
+2025-12-28 12:07:26,287 INFO HTTP Request: GET https://stackoverflow.com/ "HTTP/1.1 403 Forbidden"
+2025-12-28 12:07:37,870 ERROR Error trying to connect to socket: closing socket - timed out
+2025-12-28 12:07:38,206 INFO HTTP Request: GET https://stackoverflow.com/ "HTTP/1.1 403 Forbidden"
+2025-12-28 12:07:38,212 INFO Scan complete
+2025-12-28 12:07:38,234 INFO Scanning: https://python.org
+2025-12-28 12:07:38,923 INFO HTTP Request: GET https://python.org/ "HTTP/1.1 301 Moved Permanently"
+2025-12-28 12:07:39,203 INFO HTTP Request: GET https://www.python.org/ "HTTP/1.1 200 OK"
+2025-12-28 12:07:41,869 INFO HTTP Request: GET https://python.org/ "HTTP/1.1 301 Moved Permanently"
+2025-12-28 12:07:42,083 INFO HTTP Request: GET https://www.python.org/ "HTTP/1.1 200 OK"
+2025-12-28 12:07:42,160 INFO Scan complete
+2025-12-28 12:07:42,199 INFO Scanning: https://google.com
+2025-12-28 12:07:43,320 INFO HTTP Request: GET https://google.com/ "HTTP/1.1 301 Moved Permanently"
+2025-12-28 12:07:44,135 INFO HTTP Request: GET https://www.google.com/ "HTTP/1.1 200 OK"
+2025-12-28 12:07:47,649 INFO HTTP Request: GET https://google.com/ "HTTP/1.1 301 Moved Permanently"
+2025-12-28 12:07:48,256 INFO HTTP Request: GET https://www.google.com/ "HTTP/1.1 200 OK"
+2025-12-28 12:07:48,337 INFO Scan complete
+2025-12-28 12:15:03,911 INFO Scanning: http://testphp.vulnweb.com/
+2025-12-28 12:15:09,425 INFO HTTP Request: GET http://testphp.vulnweb.com/ "HTTP/1.1 200 OK"
+2025-12-28 12:15:32,932 INFO HTTP Request: GET http://testphp.vulnweb.com/ "HTTP/1.1 200 OK"
+2025-12-28 12:15:32,951 INFO Scan complete
+2025-12-28 12:15:33,021 INFO Scanning: https://expired.badssl.com/
+2025-12-28 12:15:40,021 INFO HTTP Request: GET https://expired.badssl.com/ "HTTP/1.1 200 OK"
+2025-12-28 12:15:45,079 INFO HTTP Request: GET https://expired.badssl.com/ "HTTP/1.1 200 OK"
+2025-12-28 12:15:45,084 INFO Scan complete
+2025-12-28 12:15:45,159 INFO Scanning: http://neverssl.com/
+2025-12-28 12:16:00,129 INFO Scan complete
+2025-12-28 12:19:50,671 INFO Scanning: http://testphp.vulnweb.com/
+2025-12-28 12:19:52,164 INFO HTTP Request: GET http://testphp.vulnweb.com/ "HTTP/1.1 200 OK"
+2025-12-28 12:20:08,678 INFO HTTP Request: GET http://testphp.vulnweb.com/ "HTTP/1.1 200 OK"
+2025-12-28 12:20:08,721 INFO Scan complete
+2025-12-28 12:20:08,739 INFO Scanning: http://testfire.net/
+2025-12-28 12:20:11,273 INFO HTTP Request: GET http://testfire.net/ "HTTP/1.1 200 OK"
+2025-12-28 12:20:15,404 INFO HTTP Request: GET http://testfire.net/ "HTTP/1.1 200 OK"
+2025-12-28 12:20:15,454 INFO Scan complete
+2025-12-28 12:20:15,518 INFO Scanning: https://demo.testfire.net/
+2025-12-28 12:20:17,575 INFO HTTP Request: GET https://demo.testfire.net/ "HTTP/1.1 200 OK"
+2025-12-28 12:20:23,858 INFO HTTP Request: GET https://demo.testfire.net/ "HTTP/1.1 200 OK"
+2025-12-28 12:20:23,890 INFO Scan complete
+2025-12-28 12:20:23,954 INFO Scanning: http://zero.webappsecurity.com/
+2025-12-28 12:20:25,617 INFO HTTP Request: GET http://zero.webappsecurity.com/ "HTTP/1.1 200 OK"
+2025-12-28 12:20:30,852 INFO HTTP Request: GET http://zero.webappsecurity.com/ "HTTP/1.1 200 OK"
+2025-12-28 12:20:31,200 INFO Scan complete
+2025-12-28 12:20:31,286 INFO Scanning: https://public-firing-range.appspot.com/
+2025-12-28 12:20:33,294 INFO HTTP Request: GET https://public-firing-range.appspot.com/ "HTTP/1.1 200 OK"
+2025-12-28 12:20:36,739 INFO HTTP Request: GET https://public-firing-range.appspot.com/ "HTTP/1.1 200 OK"
+2025-12-28 12:20:36,752 INFO Scan complete
+2025-12-28 12:20:36,784 INFO Scanning: http://demo.ine.com/
+2025-12-28 12:20:40,808 INFO Scan complete
+2025-12-28 12:20:40,889 INFO Scanning: https://example.tk
+2025-12-28 12:20:54,082 ERROR Error trying to connect to socket: closing socket - timed out
+2025-12-28 12:20:54,084 INFO Scan complete
+2025-12-28 12:20:54,163 INFO Scanning: https://test.ml
+2025-12-28 12:20:58,714 INFO HTTP Request: GET https://test.ml/ "HTTP/1.1 200 OK"
+2025-12-28 12:21:04,674 INFO HTTP Request: GET https://test.ml/ "HTTP/1.1 200 OK"
+2025-12-28 12:21:04,803 INFO Scan complete
+2025-12-28 12:21:04,873 INFO Scanning: https://sample.ga
+2025-12-28 12:21:07,730 INFO Scan complete
+2025-12-28 12:21:07,801 INFO Scanning: http://neverssl.com/
+2025-12-28 12:21:22,349 INFO Scan complete
+2025-12-28 12:21:22,466 INFO Scanning: http://example.org
+2025-12-28 12:21:23,117 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 12:21:25,086 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 12:21:25,098 INFO Scan complete
+2025-12-28 12:21:25,200 INFO Scanning: http://info.cern.ch/
+2025-12-28 12:21:28,931 INFO HTTP Request: GET http://info.cern.ch/ "HTTP/1.1 200 OK"
+2025-12-28 12:21:31,354 INFO HTTP Request: GET http://info.cern.ch/ "HTTP/1.1 200 OK"
+2025-12-28 12:21:31,365 INFO Scan complete
+2025-12-28 12:21:31,476 INFO Scanning: https://expired.badssl.com/
+2025-12-28 12:21:33,277 INFO HTTP Request: GET https://expired.badssl.com/ "HTTP/1.1 200 OK"
+2025-12-28 12:21:37,594 INFO HTTP Request: GET https://expired.badssl.com/ "HTTP/1.1 200 OK"
+2025-12-28 12:21:37,611 INFO Scan complete
+2025-12-28 12:21:37,726 INFO Scanning: https://wrong.host.badssl.com/
+2025-12-28 12:21:39,356 INFO HTTP Request: GET https://wrong.host.badssl.com/ "HTTP/1.1 200 OK"
+2025-12-28 12:21:43,673 INFO HTTP Request: GET https://wrong.host.badssl.com/ "HTTP/1.1 200 OK"
+2025-12-28 12:21:43,683 INFO Scan complete
+2025-12-28 12:21:43,791 INFO Scanning: https://self-signed.badssl.com/
+2025-12-28 12:21:45,375 INFO HTTP Request: GET https://self-signed.badssl.com/ "HTTP/1.1 200 OK"
+2025-12-28 12:21:50,217 INFO HTTP Request: GET https://self-signed.badssl.com/ "HTTP/1.1 200 OK"
+2025-12-28 12:21:50,226 INFO Scan complete
+2025-12-28 12:21:50,322 INFO Scanning: https://xss-game.appspot.com/
+2025-12-28 12:21:51,289 INFO HTTP Request: GET https://xss-game.appspot.com/ "HTTP/1.1 200 OK"
+2025-12-28 12:21:54,421 INFO HTTP Request: GET https://xss-game.appspot.com/ "HTTP/1.1 200 OK"
+2025-12-28 12:21:54,445 INFO Scan complete
+2025-12-28 12:21:54,521 INFO Scanning: http://scanme.nmap.org/
+2025-12-28 12:21:57,960 INFO HTTP Request: GET http://scanme.nmap.org/ "HTTP/1.1 200 OK"
+2025-12-28 12:22:02,140 INFO HTTP Request: GET http://scanme.nmap.org/ "HTTP/1.1 200 OK"
+2025-12-28 12:22:02,186 INFO Scan complete
+2025-12-28 12:22:02,260 INFO Scanning: https://httpbin.org/
+2025-12-28 12:22:04,253 INFO HTTP Request: GET https://httpbin.org/ "HTTP/1.1 200 OK"
+2025-12-28 12:22:08,964 INFO HTTP Request: GET https://httpbin.org/ "HTTP/1.1 200 OK"
+2025-12-28 12:22:09,018 INFO Scan complete
+2025-12-28 12:22:09,093 INFO Scanning: https://phishing-simulator.com/
+2025-12-28 12:22:52,576 INFO Scan complete
+2025-12-28 12:22:52,735 INFO Scanning: https://gophish.org/
+2025-12-28 12:22:56,968 INFO HTTP Request: GET https://gophish.org/ "HTTP/1.1 200 OK"
+2025-12-28 12:22:59,232 INFO HTTP Request: GET https://gophish.org/ "HTTP/1.1 200 OK"
+2025-12-28 12:22:59,238 INFO Scan complete
+2025-12-28 12:22:59,341 INFO Scanning: https://www.virustotal.com/
+2025-12-28 12:23:00,482 INFO HTTP Request: GET https://www.virustotal.com/ "HTTP/1.1 302 Found"
+2025-12-28 12:23:00,812 INFO HTTP Request: GET https://www.virustotal.com/gui/ "HTTP/1.1 200 OK"
+2025-12-28 12:23:03,841 INFO HTTP Request: GET https://www.virustotal.com/ "HTTP/1.1 302 Found"
+2025-12-28 12:23:04,471 INFO HTTP Request: GET https://www.virustotal.com/gui/ "HTTP/1.1 200 OK"
+2025-12-28 12:23:04,527 INFO Scan complete
+2025-12-28 12:23:04,596 INFO Scanning: https://www.hybrid-analysis.com/
+2025-12-28 12:23:05,313 INFO HTTP Request: GET https://www.hybrid-analysis.com/ "HTTP/1.1 301 Moved Permanently"
+2025-12-28 12:23:07,119 INFO HTTP Request: GET https://hybrid-analysis.com/ "HTTP/1.1 200 OK"
+2025-12-28 12:23:19,830 ERROR Error trying to connect to socket: closing socket - timed out
+2025-12-28 12:23:20,083 INFO HTTP Request: GET https://www.hybrid-analysis.com/ "HTTP/1.1 301 Moved Permanently"
+2025-12-28 12:23:20,564 INFO HTTP Request: GET https://hybrid-analysis.com/ "HTTP/1.1 200 OK"
+2025-12-28 12:23:20,726 INFO Scan complete
+2025-12-28 12:23:20,821 INFO Scanning: https://any.run/
+2025-12-28 12:23:22,672 INFO HTTP Request: GET https://any.run/ "HTTP/1.1 200 OK"
+2025-12-28 12:23:24,896 INFO HTTP Request: GET https://any.run/ "HTTP/1.1 200 OK"
+2025-12-28 12:23:25,366 INFO Scan complete
+2025-12-28 12:45:45,429 INFO Scanning: https://example.com
+2025-12-28 12:45:45,878 INFO HTTP Request: GET https://example.com/ "HTTP/1.1 200 OK"
+2025-12-28 12:45:51,224 INFO HTTP Request: GET https://example.com/ "HTTP/1.1 200 OK"
+2025-12-28 12:45:51,229 INFO Scan complete
+2025-12-28 12:50:28,494 INFO Scanning: http://neverssl.com
+2025-12-28 12:50:42,541 INFO Scan complete
+2025-12-28 13:05:07,568 INFO Scanning: https://example.com
+2025-12-28 13:05:07,898 INFO HTTP Request: GET https://example.com/ "HTTP/1.1 200 OK"
+2025-12-28 13:05:09,749 INFO HTTP Request: GET https://example.com/ "HTTP/1.1 200 OK"
+2025-12-28 13:05:09,756 INFO Scan complete
+2025-12-28 13:07:26,089 INFO Scanning: https://movies27.com
+2025-12-28 13:07:28,572 INFO HTTP Request: GET https://movies27.com/ "HTTP/1.1 301 Moved Permanently"
+2025-12-28 13:07:29,569 INFO HTTP Request: GET https://shoutout2day.com/ "HTTP/1.1 200 OK"
+2025-12-28 13:07:33,423 INFO HTTP Request: GET https://movies27.com/ "HTTP/1.1 301 Moved Permanently"
+2025-12-28 13:07:33,896 INFO HTTP Request: GET https://shoutout2day.com/ "HTTP/1.1 200 OK"
+2025-12-28 13:07:34,315 INFO Scan complete
+2025-12-28 14:04:40,349 INFO Scanning: https://example.com
+2025-12-28 14:04:58,509 INFO Scanning: https://example.com
+2025-12-28 14:04:59,721 INFO HTTP Request: GET https://example.com/ "HTTP/1.1 200 OK"
+2025-12-28 14:05:01,650 INFO HTTP Request: GET https://example.com/ "HTTP/1.1 200 OK"
+2025-12-28 14:05:01,654 INFO Scan complete
+2025-12-28 14:39:08,133 INFO Scanning: https://api.waytaplivepad.monster/?qr=cp&zqs=176a9e4e13a9c3f832dab48ae51caf82
+2025-12-28 14:39:09,458 INFO HTTP Request: GET https://api.waytaplivepad.monster/?qr=cp&zqs=176a9e4e13a9c3f832dab48ae51caf82 "HTTP/1.1 200 OK"
+2025-12-28 14:39:12,671 INFO HTTP Request: GET https://api.waytaplivepad.monster/?qr=cp&zqs=176a9e4e13a9c3f832dab48ae51caf82 "HTTP/1.1 200 OK"
+2025-12-28 14:39:12,678 INFO Scan complete
+2025-12-28 14:40:20,272 INFO Scanning: https://00005ik.rcomhost.com/7fg3g
+2025-12-28 14:40:23,899 INFO HTTP Request: GET https://00005ik.rcomhost.com/7fg3g "HTTP/1.1 400 Bad Request"
+2025-12-28 14:40:27,659 INFO HTTP Request: GET https://00005ik.rcomhost.com/7fg3g "HTTP/1.1 400 Bad Request"
+2025-12-28 14:40:27,713 INFO Scan complete
+2025-12-28 15:40:37,994 INFO Scanning: https://00005ik.rcomhost.com/7fg3g
+2025-12-28 15:41:16,601 INFO Scanning: https://00005ik.rcomhost.com/7fg3g
+2025-12-28 16:00:52,926 INFO Scanning: http://testphp.vulnweb.com/
+2025-12-28 16:00:55,580 INFO HTTP Request: GET http://testphp.vulnweb.com/ "HTTP/1.1 200 OK"
+2025-12-28 16:01:07,687 INFO HTTP Request: GET http://testphp.vulnweb.com/ "HTTP/1.1 200 OK"
+2025-12-28 16:01:07,715 INFO Scan complete
+2025-12-28 16:01:10,746 INFO Scanning: http://testfire.net/
+2025-12-28 16:01:11,480 INFO HTTP Request: GET http://testfire.net/ "HTTP/1.1 200 OK"
+2025-12-28 16:01:14,119 INFO HTTP Request: GET http://testfire.net/ "HTTP/1.1 200 OK"
+2025-12-28 16:01:14,177 INFO Scan complete
+2025-12-28 16:01:17,203 INFO Scanning: http://zero.webappsecurity.com/
+2025-12-28 16:01:18,088 INFO HTTP Request: GET http://zero.webappsecurity.com/ "HTTP/1.1 200 OK"
+2025-12-28 16:01:20,924 INFO HTTP Request: GET http://zero.webappsecurity.com/ "HTTP/1.1 200 OK"
+2025-12-28 16:01:21,149 INFO Scan complete
+2025-12-28 16:01:24,181 INFO Scanning: https://demo.testfire.net/
+2025-12-28 16:01:25,461 INFO HTTP Request: GET https://demo.testfire.net/ "HTTP/1.1 200 OK"
+2025-12-28 16:01:28,813 INFO HTTP Request: GET https://demo.testfire.net/ "HTTP/1.1 200 OK"
+2025-12-28 16:01:28,831 INFO Scan complete
+2025-12-28 16:01:31,858 INFO Scanning: https://example.tk
+2025-12-28 16:01:44,259 ERROR Error trying to connect to socket: closing socket - timed out
+2025-12-28 16:01:44,263 INFO Scan complete
+2025-12-28 16:01:47,301 INFO Scanning: https://freehosting.com
+2025-12-28 16:01:48,270 INFO HTTP Request: GET https://freehosting.com/ "HTTP/1.1 200 OK"
+2025-12-28 16:01:50,459 INFO HTTP Request: GET https://freehosting.com/ "HTTP/1.1 200 OK"
+2025-12-28 16:01:50,501 INFO Scan complete
+2025-12-28 16:01:53,548 INFO Scanning: https://newdomaintest.com
+2025-12-28 16:02:04,922 ERROR Error trying to connect to socket: closing socket - timed out
+2025-12-28 16:02:04,931 INFO Scan complete
+2025-12-28 16:02:07,990 INFO Scanning: http://neverssl.com/
+2025-12-28 16:02:20,953 INFO Scan complete
+2025-12-28 16:02:23,995 INFO Scanning: http://example.org
+2025-12-28 16:02:24,160 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:02:25,319 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:02:25,322 INFO Scan complete
+2025-12-28 16:10:48,488 INFO Scanning: http://00005ik.rcomhost.com/7fg3g
+2025-12-28 16:10:51,292 INFO HTTP Request: GET http://00005ik.rcomhost.com/7fg3g "HTTP/1.1 400 Bad Request"
+2025-12-28 16:10:54,612 INFO HTTP Request: GET http://00005ik.rcomhost.com/7fg3g "HTTP/1.1 400 Bad Request"
+2025-12-28 16:10:54,623 INFO Scan complete
+2025-12-28 16:10:55,663 INFO Scanning: http://000owamail0.000webhostapp.com/
+2025-12-28 16:11:20,136 INFO Scan complete
+2025-12-28 16:11:21,169 INFO Scanning: http://01ad681.netsolhost.com/7j0jlq3
+2025-12-28 16:11:36,757 INFO Scan complete
+2025-12-28 16:11:37,791 INFO Scanning: http://023pc.cn/8hrnv3
+2025-12-28 16:11:38,842 INFO HTTP Request: GET http://023pc.cn/8hrnv3 "HTTP/1.1 301 Moved Permanently"
+2025-12-28 16:11:39,076 INFO HTTP Request: GET http://www.023pc.cn/8hrnv3 "HTTP/1.1 404 Not Found"
+2025-12-28 16:11:40,495 INFO HTTP Request: GET http://023pc.cn/8hrnv3 "HTTP/1.1 301 Moved Permanently"
+2025-12-28 16:11:40,616 INFO HTTP Request: GET http://www.023pc.cn/8hrnv3 "HTTP/1.1 404 Not Found"
+2025-12-28 16:11:40,618 INFO Scan complete
+2025-12-28 16:11:41,659 INFO Scanning: http://027tzx.com/lscpv
+2025-12-28 16:11:42,874 INFO Scan complete
+2025-12-28 16:11:43,912 INFO Scanning: http://028cdxyk.com/hjg766
+2025-12-28 16:11:45,191 INFO Scan complete
+2025-12-28 16:11:46,226 INFO Scanning: http://028cdxyk.com/mltxgc1
+2025-12-28 16:11:47,444 INFO Scan complete
+2025-12-28 16:11:48,479 INFO Scanning: http://028cdxyk.com/nbv364
+2025-12-28 16:11:49,878 INFO Scan complete
+2025-12-28 16:11:50,921 INFO Scanning: http://028happy.com/kjg56f7
+2025-12-28 16:11:52,150 INFO Scan complete
+2025-12-28 16:11:53,186 INFO Scanning: http://03284db.netsolhost.com/t76f3g
+2025-12-28 16:12:07,475 INFO Scan complete
+2025-12-28 16:12:08,502 INFO Scanning: http://03991ce.netsolhost.com/t76f3g
+2025-12-28 16:12:20,693 INFO Scan complete
+2025-12-28 16:12:21,717 INFO Scanning: http://0551gx.cn/i9jnrc
+2025-12-28 16:12:26,233 INFO HTTP Request: GET http://0551gx.cn/i9jnrc "HTTP/1.1 404 Not Found"
+2025-12-28 16:12:37,777 INFO HTTP Request: GET http://0551gx.cn/i9jnrc "HTTP/1.1 404 Not Found"
+2025-12-28 16:12:37,779 INFO Scan complete
+2025-12-28 16:12:38,811 INFO Scanning: http://0551gx.cn/ix4ae
+2025-12-28 16:12:40,359 INFO HTTP Request: GET http://0551gx.cn/ix4ae "HTTP/1.1 404 Not Found"
+2025-12-28 16:12:52,884 INFO HTTP Request: GET http://0551gx.cn/ix4ae "HTTP/1.1 404 Not Found"
+2025-12-28 16:12:52,886 INFO Scan complete
+2025-12-28 16:12:53,923 INFO Scanning: http://0551gx.cn/jhb6576
+2025-12-28 16:12:55,521 INFO HTTP Request: GET http://0551gx.cn/jhb6576 "HTTP/1.1 404 Not Found"
+2025-12-28 16:13:07,042 INFO HTTP Request: GET http://0551gx.cn/jhb6576 "HTTP/1.1 404 Not Found"
+2025-12-28 16:13:07,043 INFO Scan complete
+2025-12-28 16:13:08,069 INFO Scanning: http://0668.com/k5bhgn
+2025-12-28 16:13:11,067 INFO HTTP Request: GET http://0668.com/k5bhgn "HTTP/1.1 404 Not Found"
+2025-12-28 16:13:23,723 INFO HTTP Request: GET http://0668.com/k5bhgn "HTTP/1.1 404 Not Found"
+2025-12-28 16:13:23,726 INFO Scan complete
+2025-12-28 16:13:24,756 INFO Scanning: http://0791longyao.com/mwnrvq7t
+2025-12-28 16:13:26,162 INFO Scan complete
+2025-12-28 16:13:27,206 INFO Scanning: http://0793mobile.com/jetg2
+2025-12-28 16:13:28,853 INFO Scan complete
+2025-12-28 16:13:29,890 INFO Scanning: http://0q2.sitey.me/
+2025-12-28 16:13:30,106 INFO HTTP Request: GET http://0q2.sitey.me/ "HTTP/1.1 301 Moved Permanently"
+2025-12-28 16:13:31,826 INFO HTTP Request: GET https://0q2.sitey.me/ "HTTP/1.1 200 OK"
+2025-12-28 16:13:34,258 INFO HTTP Request: GET http://0q2.sitey.me/ "HTTP/1.1 301 Moved Permanently"
+2025-12-28 16:13:34,337 INFO HTTP Request: GET https://0q2.sitey.me/ "HTTP/1.1 200 OK"
+2025-12-28 16:13:34,340 INFO Scan complete
+2025-12-28 16:13:35,364 INFO Scanning: http://1000i.co/87yfhc
+2025-12-28 16:13:39,170 INFO HTTP Request: GET http://1000i.co/87yfhc "HTTP/1.1 403 Forbidden"
+2025-12-28 16:13:41,722 INFO HTTP Request: GET http://1000i.co/87yfhc "HTTP/1.1 403 Forbidden"
+2025-12-28 16:13:41,725 INFO Scan complete
+2025-12-28 16:13:42,755 INFO Scanning: http://1000lashes.com/ch1wecker/orange/
+2025-12-28 16:13:43,655 INFO HTTP Request: GET http://1000lashes.com/ch1wecker/orange/ "HTTP/1.1 404 Not Found"
+2025-12-28 16:13:46,512 INFO HTTP Request: GET http://1000lashes.com/ch1wecker/orange/ "HTTP/1.1 404 Not Found"
+2025-12-28 16:13:46,517 INFO Scan complete
+2025-12-28 16:13:47,545 INFO Scanning: http://1000lashes.com/chwecker/orange/
+2025-12-28 16:13:48,265 INFO HTTP Request: GET http://1000lashes.com/chwecker/orange/ "HTTP/1.1 404 Not Found"
+2025-12-28 16:13:50,869 INFO HTTP Request: GET http://1000lashes.com/chwecker/orange/ "HTTP/1.1 404 Not Found"
+2025-12-28 16:13:50,874 INFO Scan complete
+2025-12-28 16:13:51,909 INFO Scanning: http://101natural.com/t76f3g
+2025-12-28 16:13:52,794 INFO HTTP Request: GET http://101natural.com/t76f3g "HTTP/1.1 200 OK"
+2025-12-28 16:13:53,835 INFO HTTP Request: GET http://101natural.com/t76f3g "HTTP/1.1 200 OK"
+2025-12-28 16:13:53,847 INFO Scan complete
+2025-12-28 16:13:54,884 INFO Scanning: http://101satcom.com/login.alibaba.com/login.html
+2025-12-28 16:13:56,425 INFO Scan complete
+2025-12-28 16:13:57,464 INFO Scanning: http://101satcom.com/verify/login.alibaba.com/login.jsp.php
+2025-12-28 16:13:58,565 INFO Scan complete
+2025-12-28 16:13:59,594 INFO Scanning: http://103.27.52.92/874ghv3
+2025-12-28 16:14:23,959 INFO Scan complete
+2025-12-28 16:14:24,995 INFO Scanning: http://103.27.52.92/t67bg
+2025-12-28 16:14:49,340 INFO Scan complete
+2025-12-28 16:14:50,367 INFO Scanning: http://103.43.75.87/userinfo.php
+2025-12-28 16:14:51,212 INFO HTTP Request: GET http://103.43.75.87/userinfo.php "HTTP/1.1 200 OK"
+2025-12-28 16:15:06,263 INFO HTTP Request: GET http://103.43.75.87/userinfo.php "HTTP/1.1 200 OK"
+2025-12-28 16:15:06,266 INFO Scan complete
+2025-12-28 16:15:07,288 INFO Scanning: http://104.131.182.103/userinfo.php
+2025-12-28 16:15:07,825 INFO HTTP Request: GET http://104.131.182.103/userinfo.php "HTTP/1.1 404 Not Found"
+2025-12-28 16:15:22,442 INFO HTTP Request: GET http://104.131.182.103/userinfo.php "HTTP/1.1 404 Not Found"
+2025-12-28 16:15:22,446 INFO Scan complete
+2025-12-28 16:15:23,478 INFO Scanning: http://107.170.20.33/userinfo.php
+2025-12-28 16:15:47,838 INFO Scan complete
+2025-12-28 16:15:48,863 INFO Scanning: http://107.181.174.34/message.php
+2025-12-28 16:16:13,235 INFO Scan complete
+2025-12-28 16:16:14,279 INFO Scanning: http://107.181.187.228/main.php
+2025-12-28 16:16:38,643 INFO Scan complete
+2025-12-28 16:16:39,679 INFO Scanning: http://108.174.196.88/8dpg3
+2025-12-28 16:17:04,000 INFO Scan complete
+2025-12-28 16:17:05,037 INFO Scanning: http://109.108.129.43/t76f3g
+2025-12-28 16:17:29,419 INFO Scan complete
+2025-12-28 16:17:30,463 INFO Scanning: http://109.234.35.123/userinfo.php
+2025-12-28 16:17:47,747 INFO Scan complete
+2025-12-28 16:17:48,784 INFO Scanning: http://109.234.35.128/submit.php
+2025-12-28 16:18:06,020 INFO Scan complete
+2025-12-28 16:18:07,044 INFO Scanning: http://109.234.35.75/imageload.cgi
+2025-12-28 16:18:24,277 INFO Scan complete
+2025-12-28 16:18:25,317 INFO Scanning: http://109.237.111.168/main.php
+2025-12-28 16:18:49,664 INFO Scan complete
+2025-12-28 16:18:50,696 INFO Scanning: http://109.248.222.47/information.cgi
+2025-12-28 16:19:14,957 INFO Scan complete
+2025-12-28 16:19:15,993 INFO Scanning: http://109.73.234.241/dgq01p
+2025-12-28 16:19:40,320 INFO Scan complete
+2025-12-28 16:19:41,358 INFO Scanning: http://109.73.234.241/ehprln
+2025-12-28 16:20:05,713 INFO Scan complete
+2025-12-28 16:20:06,742 INFO Scanning: http://10minutesto1.net/d05k5d
+2025-12-28 16:20:07,960 INFO HTTP Request: GET http://10minutesto1.net/d05k5d "HTTP/1.1 404 Not Found"
+2025-12-28 16:20:11,677 INFO HTTP Request: GET http://10minutesto1.net/d05k5d "HTTP/1.1 404 Not Found"
+2025-12-28 16:20:11,683 INFO Scan complete
+2025-12-28 16:20:12,721 INFO Scanning: http://10presidentesparavoce.com.br/dropbox
+2025-12-28 16:20:15,323 INFO Scan complete
+2025-12-28 16:20:16,357 INFO Scanning: http://11011020.web.fc2.com/ets19pre
+2025-12-28 16:20:28,960 ERROR Error trying to connect to socket: closing socket - timed out
+2025-12-28 16:20:28,966 INFO Scan complete
+2025-12-28 16:20:30,005 INFO Scanning: http://111.86.142.67/~h_fujii/95hdienf
+2025-12-28 16:20:54,409 INFO Scan complete
+2025-12-28 16:20:55,451 INFO Scanning: http://112.213.84.94/t67bg
+2025-12-28 16:20:55,722 INFO HTTP Request: GET http://112.213.84.94/t67bg "HTTP/1.1 404 Not Found"
+2025-12-28 16:21:10,164 INFO HTTP Request: GET http://112.213.84.94/t67bg "HTTP/1.1 404 Not Found"
+2025-12-28 16:21:10,169 INFO Scan complete
+2025-12-28 16:21:11,203 INFO Scanning: http://1140746.net/kjg56f7
+2025-12-28 16:21:12,391 INFO Scan complete
+2025-12-28 16:21:13,425 INFO Scanning: http://117.239.70.228/874ghv3
+2025-12-28 16:21:37,784 INFO Scan complete
+2025-12-28 16:21:38,829 INFO Scanning: http://121.83.206.211/~ftp-yama/9z6nu
+2025-12-28 16:22:03,180 INFO Scan complete
+2025-12-28 16:22:04,217 INFO Scanning: http://121-psychic-reading.co.uk/8734gf3hf
+2025-12-28 16:22:04,981 INFO HTTP Request: GET http://121-psychic-reading.co.uk/8734gf3hf "HTTP/1.1 301 Moved Permanently"
+2025-12-28 16:22:06,388 INFO HTTP Request: GET https://www.gameshub.com/australia/online-casinos/pokies/8734gf3hf "HTTP/1.1 404 Not Found"
+2025-12-28 16:22:08,012 INFO HTTP Request: GET http://121-psychic-reading.co.uk/8734gf3hf "HTTP/1.1 301 Moved Permanently"
+2025-12-28 16:22:09,386 INFO HTTP Request: GET https://www.gameshub.com/australia/online-casinos/pokies/8734gf3hf "HTTP/1.1 404 Not Found"
+2025-12-28 16:22:09,645 INFO Scan complete
+2025-12-28 16:22:10,686 INFO Scanning: http://121-psychic-reading.co.uk/slehGTexc
+2025-12-28 16:22:11,211 INFO HTTP Request: GET http://121-psychic-reading.co.uk/slehGTexc "HTTP/1.1 301 Moved Permanently"
+2025-12-28 16:22:12,019 INFO HTTP Request: GET https://www.gameshub.com/australia/online-casinos/pokies/slehGTexc "HTTP/1.1 404 Not Found"
+2025-12-28 16:22:13,417 INFO HTTP Request: GET http://121-psychic-reading.co.uk/slehGTexc "HTTP/1.1 301 Moved Permanently"
+2025-12-28 16:22:14,271 INFO HTTP Request: GET https://www.gameshub.com/australia/online-casinos/pokies/slehGTexc "HTTP/1.1 404 Not Found"
+2025-12-28 16:22:14,328 INFO Scan complete
+2025-12-28 16:22:15,373 INFO Scanning: http://122.15.8.163/7fg3g
+2025-12-28 16:22:39,714 INFO Scan complete
+2025-12-28 16:22:40,738 INFO Scanning: http://125ru.web.fc2.com/09u9jn87
+2025-12-28 16:22:42,273 INFO HTTP Request: GET http://125ru.web.fc2.com/09u9jn87 "HTTP/1.1 302 Found"
+2025-12-28 16:22:43,361 INFO HTTP Request: GET https://error.fc2.com/web/404.html "HTTP/1.1 404 Not Found"
+2025-12-28 16:22:55,007 ERROR Error trying to connect to socket: closing socket - timed out
+2025-12-28 16:22:55,452 INFO HTTP Request: GET http://125ru.web.fc2.com/09u9jn87 "HTTP/1.1 302 Found"
+2025-12-28 16:22:56,385 INFO HTTP Request: GET https://error.fc2.com/web/404.html "HTTP/1.1 404 Not Found"
+2025-12-28 16:22:56,403 INFO Scan complete
+2025-12-28 16:22:57,438 INFO Scanning: http://12azar.ir/modules/encyptionsettings/database/3DSecuresecurity/cardsettings.html
+2025-12-28 16:23:03,380 INFO HTTP Request: GET http://12azar.ir/modules/encyptionsettings/database/3DSecuresecurity/cardsettings.html "HTTP/1.1 404 Not Found"
+2025-12-28 16:23:06,294 INFO HTTP Request: GET http://12azar.ir/modules/encyptionsettings/database/3DSecuresecurity/cardsettings.html "HTTP/1.1 404 Not Found"
+2025-12-28 16:23:06,295 INFO Scan complete
+2025-12-28 16:23:07,322 INFO Scanning: http://12azar.ir/modules/encyptionsettings/database/3DSecuresecurity/detailsinfo.html
+2025-12-28 16:23:08,782 INFO HTTP Request: GET http://12azar.ir/modules/encyptionsettings/database/3DSecuresecurity/detailsinfo.html "HTTP/1.1 404 Not Found"
+2025-12-28 16:23:10,880 INFO HTTP Request: GET http://12azar.ir/modules/encyptionsettings/database/3DSecuresecurity/detailsinfo.html "HTTP/1.1 404 Not Found"
+2025-12-28 16:23:10,881 INFO Scan complete
+2025-12-28 16:23:11,916 INFO Scanning: http://12azar.ir/wp-admin/js/infinity.icicbank.com/3DSecureValidate/ConfirmUserSettings/cardinfo.html
+2025-12-28 16:23:13,291 INFO HTTP Request: GET http://12azar.ir/wp-admin/js/infinity.icicbank.com/3DSecureValidate/ConfirmUserSettings/cardinfo.html "HTTP/1.1 404 Not Found"
+2025-12-28 16:23:15,343 INFO HTTP Request: GET http://12azar.ir/wp-admin/js/infinity.icicbank.com/3DSecureValidate/ConfirmUserSettings/cardinfo.html "HTTP/1.1 404 Not Found"
+2025-12-28 16:23:15,345 INFO Scan complete
+2025-12-28 16:23:16,382 INFO Scanning: http://12azar.ir/wp-admin/js/infinity.icicbank.com/3DSecureValidate/ConfirmUserSettings/locality.html
+2025-12-28 16:23:18,545 INFO HTTP Request: GET http://12azar.ir/wp-admin/js/infinity.icicbank.com/3DSecureValidate/ConfirmUserSettings/locality.html "HTTP/1.1 404 Not Found"
+2025-12-28 16:23:20,731 INFO HTTP Request: GET http://12azar.ir/wp-admin/js/infinity.icicbank.com/3DSecureValidate/ConfirmUserSettings/locality.html "HTTP/1.1 404 Not Found"
+2025-12-28 16:23:20,734 INFO Scan complete
+2025-12-28 16:30:00,904 INFO Scanning: https://google.com
+2025-12-28 16:30:28,969 INFO Scanning: https://github.com
+2025-12-28 16:30:57,026 INFO Scanning: https://github.com
+2025-12-28 16:30:57,599 INFO HTTP Request: GET https://github.com/ "HTTP/1.1 200 OK"
+2025-12-28 16:30:59,938 INFO HTTP Request: GET https://github.com/ "HTTP/1.1 200 OK"
+2025-12-28 16:31:00,193 INFO Scan complete
+2025-12-28 16:31:00,268 INFO Scanning: http://example.org
+2025-12-28 16:31:00,425 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:31:01,645 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:31:01,648 INFO Scan complete
+2025-12-28 16:31:01,677 INFO Scanning: http://00005ik.rcomhost.com/7fg3g
+2025-12-28 16:31:03,958 INFO HTTP Request: GET http://00005ik.rcomhost.com/7fg3g "HTTP/1.1 400 Bad Request"
+2025-12-28 16:31:06,894 INFO HTTP Request: GET http://00005ik.rcomhost.com/7fg3g "HTTP/1.1 400 Bad Request"
+2025-12-28 16:31:06,898 INFO Scan complete
+2025-12-28 16:37:04,567 INFO Scanning: https://github.com
+2025-12-28 16:37:10,042 INFO HTTP Request: GET https://github.com/ "HTTP/1.1 200 OK"
+2025-12-28 16:37:13,679 INFO HTTP Request: GET https://github.com/ "HTTP/1.1 200 OK"
+2025-12-28 16:37:13,956 INFO Scan complete
+2025-12-28 16:37:14,066 INFO Scanning: http://example.org
+2025-12-28 16:37:14,275 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:37:15,881 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:37:15,885 INFO Scan complete
+2025-12-28 16:37:15,928 INFO Scanning: http://00005ik.rcomhost.com/7fg3g
+2025-12-28 16:37:18,926 INFO HTTP Request: GET http://00005ik.rcomhost.com/7fg3g "HTTP/1.1 400 Bad Request"
+2025-12-28 16:37:23,881 INFO HTTP Request: GET http://00005ik.rcomhost.com/7fg3g "HTTP/1.1 400 Bad Request"
+2025-12-28 16:37:23,886 INFO Scan complete
+2025-12-28 16:40:39,921 INFO Scanning: http://example.org
+2025-12-28 16:40:40,513 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:40:42,219 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:40:42,223 INFO Scan complete
+2025-12-28 16:40:42,273 INFO Scanning: http://example.org
+2025-12-28 16:40:42,478 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:40:43,805 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:40:43,810 INFO Scan complete
+2025-12-28 16:43:13,947 INFO Scanning: https://google.com
+2025-12-28 16:43:15,569 INFO HTTP Request: GET https://google.com/ "HTTP/1.1 301 Moved Permanently"
+2025-12-28 16:43:16,073 INFO HTTP Request: GET https://www.google.com/ "HTTP/1.1 200 OK"
+2025-12-28 16:43:18,528 INFO HTTP Request: GET https://google.com/ "HTTP/1.1 301 Moved Permanently"
+2025-12-28 16:43:19,033 INFO HTTP Request: GET https://www.google.com/ "HTTP/1.1 200 OK"
+2025-12-28 16:43:19,100 INFO Scan complete
+2025-12-28 16:43:19,133 INFO Scanning: https://github.com
+2025-12-28 16:43:19,944 INFO HTTP Request: GET https://github.com/ "HTTP/1.1 200 OK"
+2025-12-28 16:43:21,918 INFO HTTP Request: GET https://github.com/ "HTTP/1.1 200 OK"
+2025-12-28 16:43:22,233 INFO Scan complete
+2025-12-28 16:43:22,283 INFO Scanning: http://example.org
+2025-12-28 16:43:22,569 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:43:24,011 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:43:24,015 INFO Scan complete
+2025-12-28 16:43:24,064 INFO Scanning: http://example.org
+2025-12-28 16:43:24,365 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:43:25,788 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:43:25,792 INFO Scan complete
+2025-12-28 16:43:25,851 INFO Scanning: https://google.com
+2025-12-28 16:43:26,327 INFO HTTP Request: GET https://google.com/ "HTTP/1.1 301 Moved Permanently"
+2025-12-28 16:43:26,822 INFO HTTP Request: GET https://www.google.com/ "HTTP/1.1 200 OK"
+2025-12-28 16:43:28,731 INFO HTTP Request: GET https://google.com/ "HTTP/1.1 301 Moved Permanently"
+2025-12-28 16:43:29,629 INFO HTTP Request: GET https://www.google.com/ "HTTP/1.1 200 OK"
+2025-12-28 16:43:29,691 INFO Scan complete
+2025-12-28 16:43:30,234 INFO Scanning: https://github.com
+2025-12-28 16:43:30,746 INFO HTTP Request: GET https://github.com/ "HTTP/1.1 200 OK"
+2025-12-28 16:43:32,552 INFO HTTP Request: GET https://github.com/ "HTTP/1.1 200 OK"
+2025-12-28 16:43:32,848 INFO Scan complete
+2025-12-28 16:43:33,383 INFO Scanning: http://example.org
+2025-12-28 16:43:33,527 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:43:44,017 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:43:44,047 INFO Scan complete
+2025-12-28 16:45:18,013 INFO Scanning: http://example.org
+2025-12-28 16:45:18,781 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:45:20,098 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:45:20,104 INFO Scan complete
+2025-12-28 16:45:20,144 INFO Scanning: http://example.org
+2025-12-28 16:45:20,266 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:45:21,521 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:45:21,527 INFO Scan complete
+2025-12-28 16:45:21,572 INFO Scanning: http://example.org
+2025-12-28 16:45:21,867 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:45:23,010 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:45:23,015 INFO Scan complete
+2025-12-28 16:49:11,802 INFO Scanning: http://example.org
+2025-12-28 16:49:12,208 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:49:13,590 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:49:13,594 INFO Scan complete
+2025-12-28 16:49:14,684 INFO Scanning: http://example.org
+2025-12-28 16:49:14,974 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:49:16,168 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:49:16,173 INFO Scan complete
+2025-12-28 16:49:17,326 INFO Scanning: http://example.org
+2025-12-28 16:49:17,591 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:49:18,740 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:49:18,742 INFO Scan complete
+2025-12-28 16:49:57,914 INFO Scanning: https://google.com
+2025-12-28 16:49:58,796 INFO HTTP Request: GET https://google.com/ "HTTP/1.1 301 Moved Permanently"
+2025-12-28 16:49:59,331 INFO HTTP Request: GET https://www.google.com/ "HTTP/1.1 200 OK"
+2025-12-28 16:50:01,446 INFO HTTP Request: GET https://google.com/ "HTTP/1.1 301 Moved Permanently"
+2025-12-28 16:50:01,916 INFO HTTP Request: GET https://www.google.com/ "HTTP/1.1 200 OK"
+2025-12-28 16:50:01,982 INFO Scan complete
+2025-12-28 16:50:02,547 INFO Scanning: https://github.com
+2025-12-28 16:50:02,948 INFO HTTP Request: GET https://github.com/ "HTTP/1.1 200 OK"
+2025-12-28 16:50:04,662 INFO HTTP Request: GET https://github.com/ "HTTP/1.1 200 OK"
+2025-12-28 16:50:04,879 INFO Scan complete
+2025-12-28 16:50:05,418 INFO Scanning: http://example.org
+2025-12-28 16:50:05,604 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:50:06,709 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:50:06,713 INFO Scan complete
+2025-12-28 16:50:07,263 INFO Scanning: https://python.org
+2025-12-28 16:50:07,593 INFO HTTP Request: GET https://python.org/ "HTTP/1.1 301 Moved Permanently"
+2025-12-28 16:50:07,665 INFO HTTP Request: GET https://www.python.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:50:08,791 INFO HTTP Request: GET https://python.org/ "HTTP/1.1 301 Moved Permanently"
+2025-12-28 16:50:08,831 INFO HTTP Request: GET https://www.python.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:50:08,885 INFO Scan complete
+2025-12-28 16:50:09,424 INFO Scanning: http://httpforever.com
+2025-12-28 16:50:10,122 INFO HTTP Request: GET http://httpforever.com/ "HTTP/1.1 200 OK"
+2025-12-28 16:50:12,328 INFO HTTP Request: GET http://httpforever.com/ "HTTP/1.1 200 OK"
+2025-12-28 16:50:12,343 INFO Scan complete
+2025-12-28 16:50:12,872 INFO Scanning: https://badssl.com
+2025-12-28 16:50:14,220 INFO HTTP Request: GET https://badssl.com/ "HTTP/1.1 200 OK"
+2025-12-28 16:50:17,393 INFO HTTP Request: GET https://badssl.com/ "HTTP/1.1 200 OK"
+2025-12-28 16:50:17,419 INFO Scan complete
+2025-12-28 16:50:17,947 INFO Scanning: https://expired.badssl.com
+2025-12-28 16:50:19,121 INFO HTTP Request: GET https://expired.badssl.com/ "HTTP/1.1 200 OK"
+2025-12-28 16:50:22,373 INFO HTTP Request: GET https://expired.badssl.com/ "HTTP/1.1 200 OK"
+2025-12-28 16:50:22,379 INFO Scan complete
+2025-12-28 16:50:22,916 INFO Scanning: http://neverssl.com
+2025-12-28 16:50:24,369 INFO HTTP Request: GET http://neverssl.com/ "HTTP/1.1 200 OK"
+2025-12-28 16:50:37,009 INFO Scan complete
+2025-12-28 16:50:37,072 INFO Scanning: http://example.org
+2025-12-28 16:50:37,198 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:50:39,878 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 16:50:39,883 INFO Scan complete
+2025-12-28 17:00:55,398 INFO Scanning: http://185.220.101.34/
+2025-12-28 17:01:19,900 INFO Scan complete
+2025-12-28 17:01:21,453 INFO Scanning: http://malware-traffic-analysis.net/
+2025-12-28 17:01:22,827 INFO HTTP Request: GET http://malware-traffic-analysis.net/ "HTTP/1.1 301 Moved Permanently"
+2025-12-28 17:01:23,646 INFO HTTP Request: GET https://www.malware-traffic-analysis.net/ "HTTP/1.1 200 OK"
+2025-12-28 17:01:36,116 ERROR Error trying to connect to socket: closing socket - timed out
+2025-12-28 17:01:36,751 INFO HTTP Request: GET http://malware-traffic-analysis.net/ "HTTP/1.1 301 Moved Permanently"
+2025-12-28 17:01:37,595 INFO HTTP Request: GET https://www.malware-traffic-analysis.net/ "HTTP/1.1 200 OK"
+2025-12-28 17:01:37,611 INFO Scan complete
+2025-12-28 17:01:39,194 INFO Scanning: http://testphp.vulnweb.com/
+2025-12-28 17:01:41,155 INFO HTTP Request: GET http://testphp.vulnweb.com/ "HTTP/1.1 200 OK"
+2025-12-28 17:01:53,852 INFO HTTP Request: GET http://testphp.vulnweb.com/ "HTTP/1.1 200 OK"
+2025-12-28 17:01:53,868 INFO Scan complete
+2025-12-28 17:01:55,418 INFO Scanning: http://free-downloads.tk
+2025-12-28 17:02:08,260 ERROR Error trying to connect to socket: closing socket - timed out
+2025-12-28 17:02:08,262 INFO Scan complete
+2025-12-28 17:02:09,810 INFO Scanning: http://win-prize.ml
+2025-12-28 17:02:12,285 INFO Scan complete
+2025-12-28 17:02:13,840 INFO Scanning: http://crypto-wallet.ga
+2025-12-28 17:02:15,499 INFO Scan complete
+2025-12-28 17:02:17,049 INFO Scanning: http://paypal-secure-login.tk
+2025-12-28 17:02:29,179 ERROR Error trying to connect to socket: closing socket - timed out
+2025-12-28 17:02:29,181 INFO Scan complete
+2025-12-28 17:02:30,733 INFO Scanning: http://amazon-account-verify.ml
+2025-12-28 17:02:32,766 INFO Scan complete
+2025-12-28 17:02:34,322 INFO Scanning: http://unsecurebank.com
+2025-12-28 17:02:35,733 INFO Scan complete
+2025-12-28 17:02:37,272 INFO Scanning: http://data-breach-check.info
+2025-12-28 17:02:37,987 INFO Scan complete
+2025-12-28 17:03:39,523 INFO Scanning: http://45.142.212.61/
+2025-12-28 17:04:04,177 INFO Scan complete
+2025-12-28 17:04:06,268 INFO Scanning: http://193.142.30.126/
+2025-12-28 17:04:30,793 INFO Scan complete
+2025-12-28 17:04:32,896 INFO Scanning: http://5.182.210.226/
+2025-12-28 17:04:57,311 INFO Scan complete
+2025-12-28 17:04:59,361 INFO Scanning: http://malicious-site-example.tk
+2025-12-28 17:05:11,358 ERROR Error trying to connect to socket: closing socket - timed out
+2025-12-28 17:05:11,365 INFO Scan complete
+2025-12-28 17:05:13,417 INFO Scanning: http://trojan-download.ml
+2025-12-28 17:05:16,108 INFO Scan complete
+2025-12-28 17:05:18,146 INFO Scanning: http://ransomware-payload.ga
+2025-12-28 17:05:19,299 INFO Scan complete
+2025-12-28 17:17:10,594 INFO Scanning: http://ransomware-payload.ga/
+2025-12-28 17:17:12,232 INFO Scan complete
+2025-12-28 17:27:58,676 INFO Scanning: http://ransomware-payload.ga/
+2025-12-28 17:28:00,110 INFO Scan complete
+2025-12-28 17:35:14,692 INFO Scanning: http://028cdxyk.com/hjg766
+2025-12-28 17:35:16,902 INFO Scan complete
+2025-12-28 18:46:33,694 INFO Scanning: https://zudio.com@zudnwm.cyou?id=251228064008
+2025-12-28 18:46:39,265 INFO Scanning: https://zudio.com@zudnwm.cyou?id=251228064008
+2025-12-28 18:46:40,865 INFO Scanning: https://zudio.com@zudnwm.cyou?id=251228064008
+2025-12-28 18:46:42,346 INFO Scanning: https://zudio.com@zudnwm.cyou?id=251228064008
+2025-12-28 18:53:59,556 INFO Scanning: https://zudio.com@zudnwm.cyou?id=251228064008
+2025-12-28 18:54:00,748 INFO HTTP Request: GET https://zudio.com@zudnwm.cyou/?id=251228064008 "HTTP/1.1 302 Found"
+2025-12-28 18:54:01,340 INFO HTTP Request: GET https://google.com "HTTP/1.1 301 Moved Permanently"
+2025-12-28 18:54:01,852 INFO HTTP Request: GET https://www.google.com/ "HTTP/1.1 200 OK"
+2025-12-28 18:54:05,412 INFO HTTP Request: GET https://zudio.com@zudnwm.cyou/?id=251228064008 "HTTP/1.1 302 Found"
+2025-12-28 18:54:05,816 INFO HTTP Request: GET https://google.com "HTTP/1.1 301 Moved Permanently"
+2025-12-28 18:54:06,274 INFO HTTP Request: GET https://www.google.com/ "HTTP/1.1 200 OK"
+2025-12-28 18:54:06,397 INFO Scan complete
+2025-12-28 21:47:57,659 INFO Scanning: https://expired.badssl.com
+2025-12-28 21:47:59,057 INFO HTTP Request: GET https://expired.badssl.com/ "HTTP/1.1 200 OK"
+2025-12-28 21:47:59,059 INFO HTTP fetch successful: https://expired.badssl.com/ (status=200, time=1.15s)
+2025-12-28 21:47:59,989 INFO Retrieved SSL certificate for badssl.com
+2025-12-28 21:48:02,683 INFO HTTP Request: GET https://expired.badssl.com/ "HTTP/1.1 200 OK"
+2025-12-28 21:48:02,687 INFO Scan complete
+2025-12-28 21:51:08,815 INFO Scanning: http://fake-nonexistent-test.xyz
+2025-12-28 21:51:08,900 WARNING Domain fake-nonexistent-test.xyz does not exist (NXDOMAIN)
+2025-12-28 21:51:09,271 WARNING Connection error for http://fake-nonexistent-test.xyz/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-28 21:51:10,277 WARNING Connection error for http://fake-nonexistent-test.xyz/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-28 21:51:11,678 INFO Scan complete
+2025-12-28 21:58:40,258 INFO Scanning: https://example.com
+2025-12-28 21:58:40,637 INFO HTTP Request: GET https://example.com/ "HTTP/1.1 200 OK"
+2025-12-28 21:58:40,638 INFO HTTP fetch successful: https://example.com/ (status=200, time=0.23s)
+2025-12-28 21:58:40,743 INFO Retrieved SSL certificate for example.com
+2025-12-28 21:58:42,685 INFO HTTP Request: GET https://example.com/ "HTTP/1.1 200 OK"
+2025-12-28 21:58:42,688 INFO Scan complete
+2025-12-28 21:58:57,676 INFO Scanning: https://example.com
+2025-12-28 21:58:57,974 INFO HTTP Request: GET https://example.com/ "HTTP/1.1 200 OK"
+2025-12-28 21:58:57,975 INFO HTTP fetch successful: https://example.com/ (status=200, time=0.16s)
+2025-12-28 21:58:58,068 INFO Retrieved SSL certificate for example.com
+2025-12-28 21:58:59,761 INFO HTTP Request: GET https://example.com/ "HTTP/1.1 200 OK"
+2025-12-28 21:58:59,764 INFO Scan complete
+2025-12-28 22:02:57,958 INFO Scanning: http://testphp.vulnweb.com/
+2025-12-28 22:02:59,478 INFO HTTP Request: GET http://testphp.vulnweb.com/ "HTTP/1.1 200 OK"
+2025-12-28 22:02:59,479 INFO HTTP fetch successful: http://testphp.vulnweb.com/ (status=200, time=0.59s)
+2025-12-28 22:03:11,663 INFO HTTP Request: GET http://testphp.vulnweb.com/ "HTTP/1.1 200 OK"
+2025-12-28 22:03:11,682 INFO Scan complete
+2025-12-28 22:03:14,724 INFO Scanning: http://testfire.net/
+2025-12-28 22:03:15,725 INFO HTTP Request: GET http://testfire.net/ "HTTP/1.1 200 OK"
+2025-12-28 22:03:15,726 INFO HTTP fetch successful: http://testfire.net/ (status=200, time=0.57s)
+2025-12-28 22:03:18,458 INFO HTTP Request: GET http://testfire.net/ "HTTP/1.1 200 OK"
+2025-12-28 22:03:18,495 INFO Scan complete
+2025-12-28 22:03:21,525 INFO Scanning: http://zero.webappsecurity.com/
+2025-12-28 22:03:22,532 INFO HTTP Request: GET http://zero.webappsecurity.com/ "HTTP/1.1 200 OK"
+2025-12-28 22:03:22,754 INFO HTTP fetch successful: http://zero.webappsecurity.com/ (status=200, time=0.73s)
+2025-12-28 22:03:25,479 INFO HTTP Request: GET http://zero.webappsecurity.com/ "HTTP/1.1 200 OK"
+2025-12-28 22:03:25,707 INFO Scan complete
+2025-12-28 22:03:28,742 INFO Scanning: https://demo.testfire.net/
+2025-12-28 22:03:29,994 INFO HTTP Request: GET https://demo.testfire.net/ "HTTP/1.1 200 OK"
+2025-12-28 22:03:29,995 INFO HTTP fetch successful: https://demo.testfire.net/ (status=200, time=1.10s)
+2025-12-28 22:03:33,395 INFO HTTP Request: GET https://demo.testfire.net/ "HTTP/1.1 200 OK"
+2025-12-28 22:03:33,417 INFO Scan complete
+2025-12-28 22:03:36,483 INFO Scanning: https://example.tk
+2025-12-28 22:03:36,716 WARNING Domain example.tk does not exist (NXDOMAIN)
+2025-12-28 22:03:37,888 WARNING Connection error for https://example.tk/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-28 22:03:38,895 WARNING Connection error for https://example.tk/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-28 22:03:49,728 ERROR Error trying to connect to socket: closing socket - timed out
+2025-12-28 22:03:49,729 INFO Scan complete
+2025-12-28 22:03:52,762 INFO Scanning: https://freehosting.com
+2025-12-28 22:03:53,687 INFO HTTP Request: GET https://freehosting.com/ "HTTP/1.1 200 OK"
+2025-12-28 22:03:53,691 INFO HTTP fetch successful: https://freehosting.com/ (status=200, time=0.63s)
+2025-12-28 22:03:53,798 INFO Retrieved SSL certificate for freehosting.com
+2025-12-28 22:03:55,399 INFO HTTP Request: GET https://freehosting.com/ "HTTP/1.1 200 OK"
+2025-12-28 22:03:55,460 INFO Scan complete
+2025-12-28 22:03:58,511 INFO Scanning: https://newdomaintest.com
+2025-12-28 22:03:58,717 WARNING Domain newdomaintest.com does not exist (NXDOMAIN)
+2025-12-28 22:03:58,964 WARNING Connection error for https://newdomaintest.com/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-28 22:03:59,966 WARNING Connection error for https://newdomaintest.com/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-28 22:04:10,946 ERROR Error trying to connect to socket: closing socket - timed out
+2025-12-28 22:04:10,950 INFO Scan complete
+2025-12-28 22:04:13,993 INFO Scanning: http://neverssl.com/
+2025-12-28 22:04:24,550 WARNING HTTP timeout for http://neverssl.com/ (attempt 1/2)
+2025-12-28 22:04:35,572 WARNING HTTP timeout for http://neverssl.com/ (attempt 2/2)
+2025-12-28 22:04:36,186 INFO Retrieved SSL certificate for neverssl.com
+2025-12-28 22:04:37,960 INFO Scan complete
+2025-12-28 22:04:40,994 INFO Scanning: http://example.org
+2025-12-28 22:04:41,207 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 22:04:41,209 INFO HTTP fetch successful: http://example.org/ (status=200, time=0.10s)
+2025-12-28 22:04:41,311 INFO Retrieved SSL certificate for example.org
+2025-12-28 22:04:42,451 INFO HTTP Request: GET http://example.org/ "HTTP/1.1 200 OK"
+2025-12-28 22:04:42,458 INFO Scan complete
+2025-12-28 22:08:13,827 INFO Scanning: https://example.com
+2025-12-28 22:08:14,797 INFO HTTP Request: GET https://example.com/ "HTTP/1.1 200 OK"
+2025-12-28 22:08:14,799 INFO HTTP fetch successful: https://example.com/ (status=200, time=0.32s)
+2025-12-28 22:08:14,904 INFO Retrieved SSL certificate for example.com
+2025-12-28 22:08:16,775 INFO HTTP Request: GET https://example.com/ "HTTP/1.1 200 OK"
+2025-12-28 22:08:16,779 INFO Scan complete
+2025-12-28 22:10:39,642 INFO Scanning: https://example.com
+2025-12-28 22:10:40,290 INFO HTTP Request: GET https://example.com/ "HTTP/1.1 200 OK"
+2025-12-28 22:10:40,292 INFO HTTP fetch successful: https://example.com/ (status=200, time=0.24s)
+2025-12-28 22:10:40,482 INFO Retrieved SSL certificate for example.com
+2025-12-28 22:10:42,759 INFO HTTP Request: GET https://example.com/ "HTTP/1.1 200 OK"
+2025-12-28 22:10:42,764 INFO Scan complete
+2025-12-28 22:26:49,778 INFO Scanning: https://example.com
+2025-12-28 22:26:50,150 INFO HTTP Request: GET https://example.com/ "HTTP/1.1 200 OK"
+2025-12-28 22:26:50,151 INFO HTTP fetch successful: https://example.com/ (status=200, time=0.19s)
+2025-12-28 22:26:50,294 INFO Retrieved SSL certificate for example.com
+2025-12-28 22:26:52,312 INFO HTTP Request: GET https://example.com/ "HTTP/1.1 200 OK"
+2025-12-28 22:26:52,317 INFO Scan complete
+2025-12-28 22:41:52,648 INFO Scanning: http://12azar.ir/modules/encyptionsettings/database/3DSecuresecurity/cardsettings.html
+2025-12-28 22:41:59,656 INFO HTTP Request: GET http://12azar.ir/modules/encyptionsettings/database/3DSecuresecurity/cardsettings.html "HTTP/1.1 404 Not Found"
+2025-12-28 22:41:59,660 INFO HTTP fetch successful: http://12azar.ir/modules/encyptionsettings/database/3DSecuresecurity/cardsettings.html (status=404, time=0.88s)
+2025-12-28 22:42:03,235 INFO HTTP Request: GET http://12azar.ir/modules/encyptionsettings/database/3DSecuresecurity/cardsettings.html "HTTP/1.1 404 Not Found"
+2025-12-28 22:42:03,238 INFO Scan complete
+2025-12-29 11:54:16,312 INFO Scanning: http://189-211-177-171.static.axtel.net/vtigercrmpro/data/wwapplm/appalm/7701cee224165b74dae43ad909ee3568/
+2025-12-29 11:54:31,489 WARNING HTTP timeout for http://189-211-177-171.static.axtel.net/vtigercrmpro/data/wwapplm/appalm/7701cee224165b74dae43ad909ee3568/ (attempt 1/2)
+2025-12-29 11:54:42,510 WARNING HTTP timeout for http://189-211-177-171.static.axtel.net/vtigercrmpro/data/wwapplm/appalm/7701cee224165b74dae43ad909ee3568/ (attempt 2/2)
+2025-12-29 11:54:55,486 INFO Scan complete
+2025-12-29 11:57:15,573 INFO Scanning: https://zudio.com@zudnwm.cyou?id=251228064008
+2025-12-29 11:57:16,815 INFO HTTP Request: GET https://zudio.com@zudnwm.cyou/?id=251228064008 "HTTP/1.1 302 Found"
+2025-12-29 11:57:18,206 INFO HTTP Request: GET https://google.com "HTTP/1.1 301 Moved Permanently"
+2025-12-29 11:57:18,889 INFO HTTP Request: GET https://www.google.com/ "HTTP/1.1 200 OK"
+2025-12-29 11:57:18,914 INFO HTTP fetch successful: https://zudio.com@zudnwm.cyou/?id=251228064008 (status=200, time=2.82s)
+2025-12-29 11:57:19,209 INFO Retrieved SSL certificate for zudnwm.cyou
+2025-12-29 11:57:23,006 INFO HTTP Request: GET https://zudio.com@zudnwm.cyou/?id=251228064008 "HTTP/1.1 302 Found"
+2025-12-29 11:57:23,537 INFO HTTP Request: GET https://google.com "HTTP/1.1 301 Moved Permanently"
+2025-12-29 11:57:24,119 INFO HTTP Request: GET https://www.google.com/ "HTTP/1.1 200 OK"
+2025-12-29 11:57:24,241 INFO Scan complete
+2025-12-29 12:11:53,847 INFO Scanning: http://27lelchgcvs2wpm7.bonbestal.asia
+2025-12-29 12:11:53,889 WARNING Domain bonbestal.asia does not exist (NXDOMAIN)
+2025-12-29 12:11:54,075 WARNING Connection error for http://27lelchgcvs2wpm7.bonbestal.asia/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 12:11:55,080 WARNING Connection error for http://27lelchgcvs2wpm7.bonbestal.asia/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 12:11:58,708 INFO Scan complete
+2025-12-29 12:12:06,033 INFO Scanning: http://27lelchgcvs2wpm7.bonbestal.asia
+2025-12-29 12:12:06,084 WARNING Domain bonbestal.asia does not exist (NXDOMAIN)
+2025-12-29 12:12:06,249 WARNING Connection error for http://27lelchgcvs2wpm7.bonbestal.asia/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 12:12:07,254 WARNING Connection error for http://27lelchgcvs2wpm7.bonbestal.asia/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 12:12:08,916 INFO Scan complete
+2025-12-29 12:15:57,390 INFO Scanning: http://2-wave.com/MjdyeUHS32
+2025-12-29 12:16:00,695 INFO HTTP Request: GET http://2-wave.com/MjdyeUHS32 "HTTP/1.1 404 Not Found"
+2025-12-29 12:16:00,696 INFO HTTP fetch successful: http://2-wave.com/MjdyeUHS32 (status=404, time=0.99s)
+2025-12-29 12:16:03,867 INFO HTTP Request: GET http://2-wave.com/MjdyeUHS32 "HTTP/1.1 404 Not Found"
+2025-12-29 12:16:03,870 INFO Scan complete
+2025-12-29 12:16:50,746 INFO Scanning: http://3d-skeneri.com/relate.php?utm_source=5r2ke0ow6k&utm_medium=qqod2h9a88&utm_campaign=2d1hl1v1r8&utm_term=k8x88w9m3s&utm_content=21hiwdmgpm
+2025-12-29 12:16:56,525 INFO HTTP Request: GET http://3d-skeneri.com/relate.php?utm_source=5r2ke0ow6k&utm_medium=qqod2h9a88&utm_campaign=2d1hl1v1r8&utm_term=k8x88w9m3s&utm_content=21hiwdmgpm "HTTP/1.1 404 Not Found"
+2025-12-29 12:16:56,806 INFO HTTP fetch successful: http://3d-skeneri.com/relate.php?utm_source=5r2ke0ow6k&utm_medium=qqod2h9a88&utm_campaign=2d1hl1v1r8&utm_term=k8x88w9m3s&utm_content=21hiwdmgpm (status=404, time=3.88s)
+2025-12-29 12:16:57,542 INFO Retrieved SSL certificate for 3d-skeneri.com
+2025-12-29 12:17:01,015 INFO HTTP Request: GET http://3d-skeneri.com/relate.php?utm_source=5r2ke0ow6k&utm_medium=qqod2h9a88&utm_campaign=2d1hl1v1r8&utm_term=k8x88w9m3s&utm_content=21hiwdmgpm "HTTP/1.1 404 Not Found"
+2025-12-29 12:17:01,403 INFO Scan complete
+2025-12-29 12:20:08,297 INFO Scanning: http://3d-skeneri.com/relate.php?utm_source=5r2ke0ow6k&utm_medium=qqod2h9a88&utm_campaign=2d1hl1v1r8&utm_term=k8x88w9m3s&utm_content=21hiwdmgpm
+2025-12-29 12:20:13,246 INFO HTTP Request: GET http://3d-skeneri.com/relate.php?utm_source=5r2ke0ow6k&utm_medium=qqod2h9a88&utm_campaign=2d1hl1v1r8&utm_term=k8x88w9m3s&utm_content=21hiwdmgpm "HTTP/1.1 404 Not Found"
+2025-12-29 12:20:13,549 INFO HTTP fetch successful: http://3d-skeneri.com/relate.php?utm_source=5r2ke0ow6k&utm_medium=qqod2h9a88&utm_campaign=2d1hl1v1r8&utm_term=k8x88w9m3s&utm_content=21hiwdmgpm (status=404, time=3.51s)
+2025-12-29 12:20:14,343 INFO Retrieved SSL certificate for 3d-skeneri.com
+2025-12-29 12:20:17,829 INFO HTTP Request: GET http://3d-skeneri.com/relate.php?utm_source=5r2ke0ow6k&utm_medium=qqod2h9a88&utm_campaign=2d1hl1v1r8&utm_term=k8x88w9m3s&utm_content=21hiwdmgpm "HTTP/1.1 404 Not Found"
+2025-12-29 12:20:18,102 INFO Scan complete
+2025-12-29 12:34:16,506 INFO Scanning: http://abclala.com/r2kvg2
+2025-12-29 12:34:16,568 WARNING Domain abclala.com does not exist (NXDOMAIN)
+2025-12-29 12:34:17,425 WARNING Connection error for http://abclala.com/r2kvg2 (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 12:34:18,430 WARNING Connection error for http://abclala.com/r2kvg2 (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 12:34:19,977 INFO Scan complete
+2025-12-29 12:37:50,812 INFO Scanning: http://abclala.com/r2kvg2
+2025-12-29 12:37:50,983 WARNING Domain abclala.com does not exist (NXDOMAIN)
+2025-12-29 12:37:52,950 WARNING Connection error for http://abclala.com/r2kvg2 (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 12:37:53,955 WARNING Connection error for http://abclala.com/r2kvg2 (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 12:37:55,640 INFO Scan complete
+2025-12-29 12:38:15,999 INFO Scanning: http://abclala.com/r2kvg2
+2025-12-29 12:38:16,041 WARNING Domain abclala.com does not exist (NXDOMAIN)
+2025-12-29 12:38:16,214 WARNING Connection error for http://abclala.com/r2kvg2 (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 12:38:17,220 WARNING Connection error for http://abclala.com/r2kvg2 (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 12:38:18,811 INFO Scan complete
+2025-12-29 14:01:33,892 INFO Scanning: http://afteryou.fr/trwcual
+2025-12-29 14:01:38,967 WARNING DNS timeout for afteryou.fr A records
+2025-12-29 14:01:54,889 INFO HTTP Request: GET http://afteryou.fr/trwcual "HTTP/1.1 307 Temporary Redirect"
+2025-12-29 14:01:54,896 INFO HTTP Request: GET http://captiveportal.kluniversity.in:8090/ips/block/webcat?cat=71&pl=0&lu=0&url=aHR0cDovL2FmdGVyeW91LmZyL3Ryd2N1YWw~ "HTTP/1.1 403 Forbidden"
+2025-12-29 14:01:54,904 INFO HTTP fetch successful: http://afteryou.fr/trwcual (status=403, time=0.37s)
+2025-12-29 14:01:55,408 INFO Retrieved SSL certificate for afteryou.fr
+2025-12-29 14:02:07,866 INFO HTTP Request: GET http://afteryou.fr/trwcual "HTTP/1.1 307 Temporary Redirect"
+2025-12-29 14:02:07,873 INFO HTTP Request: GET http://captiveportal.kluniversity.in:8090/ips/block/webcat?cat=71&pl=0&lu=0&url=aHR0cDovL2FmdGVyeW91LmZyL3Ryd2N1YWw~ "HTTP/1.1 403 Forbidden"
+2025-12-29 14:02:07,894 INFO Scan complete
+2025-12-29 14:06:48,109 INFO Scanning: http://afteryou.fr/trwcual
+2025-12-29 14:06:53,127 WARNING DNS timeout for afteryou.fr A records
+2025-12-29 14:07:08,887 INFO HTTP Request: GET http://afteryou.fr/trwcual "HTTP/1.1 307 Temporary Redirect"
+2025-12-29 14:07:08,924 INFO HTTP Request: GET http://captiveportal.kluniversity.in:8090/ips/block/webcat?cat=71&pl=0&lu=0&url=aHR0cDovL2FmdGVyeW91LmZyL3Ryd2N1YWw~ "HTTP/1.1 403 Forbidden"
+2025-12-29 14:07:08,930 INFO HTTP fetch successful: http://afteryou.fr/trwcual (status=403, time=0.32s)
+2025-12-29 14:07:09,418 INFO Retrieved SSL certificate for afteryou.fr
+2025-12-29 14:07:10,925 INFO HTTP Request: GET http://afteryou.fr/trwcual "HTTP/1.1 307 Temporary Redirect"
+2025-12-29 14:07:10,935 INFO HTTP Request: GET http://captiveportal.kluniversity.in:8090/ips/block/webcat?cat=71&pl=0&lu=0&url=aHR0cDovL2FmdGVyeW91LmZyL3Ryd2N1YWw~ "HTTP/1.1 403 Forbidden"
+2025-12-29 14:07:10,963 INFO Scan complete
+2025-12-29 14:07:13,012 INFO Scanning: http://agaoglu-mytown.com/746t3fg3
+2025-12-29 14:07:18,032 WARNING DNS timeout for agaoglu-mytown.com A records
+2025-12-29 14:07:44,983 WARNING HTTP timeout for http://agaoglu-mytown.com/746t3fg3 (attempt 1/2)
+2025-12-29 14:07:56,000 WARNING HTTP timeout for http://agaoglu-mytown.com/746t3fg3 (attempt 2/2)
+2025-12-29 14:08:08,042 INFO Scan complete
+2025-12-29 14:08:10,093 INFO Scanning: http://agarty.kz/4GBrdf6
+2025-12-29 14:08:15,109 WARNING DNS timeout for agarty.kz A records
+2025-12-29 14:08:31,616 INFO HTTP Request: GET http://agarty.kz/4GBrdf6 "HTTP/1.1 301 Moved Permanently"
+2025-12-29 14:08:37,663 INFO HTTP Request: GET https://agarty.kz/4GBrdf6 "HTTP/1.1 404 Not Found"
+2025-12-29 14:08:37,667 INFO HTTP fetch successful: http://agarty.kz/4GBrdf6 (status=404, time=7.08s)
+2025-12-29 14:08:38,404 INFO Retrieved SSL certificate for agarty.kz
+2025-12-29 14:08:39,869 INFO HTTP Request: GET http://agarty.kz/4GBrdf6 "HTTP/1.1 301 Moved Permanently"
+2025-12-29 14:08:41,886 INFO HTTP Request: GET https://agarty.kz/4GBrdf6 "HTTP/1.1 404 Not Found"
+2025-12-29 14:08:41,973 INFO Scan complete
+2025-12-29 14:16:20,400 INFO Scanning: http://afteryou.fr/trwcual
+2025-12-29 14:16:22,605 INFO HTTP Request: GET http://afteryou.fr/trwcual "HTTP/1.1 307 Temporary Redirect"
+2025-12-29 14:16:22,629 INFO HTTP Request: GET http://captiveportal.kluniversity.in:8090/ips/block/webcat?cat=71&pl=0&lu=0&url=aHR0cDovL2FmdGVyeW91LmZyL3Ryd2N1YWw~ "HTTP/1.1 403 Forbidden"
+2025-12-29 14:16:22,636 INFO HTTP fetch successful: http://afteryou.fr/trwcual (status=403, time=0.29s)
+2025-12-29 14:16:23,076 INFO Retrieved SSL certificate for afteryou.fr
+2025-12-29 14:16:24,845 INFO HTTP Request: GET http://afteryou.fr/trwcual "HTTP/1.1 307 Temporary Redirect"
+2025-12-29 14:16:24,853 INFO HTTP Request: GET http://captiveportal.kluniversity.in:8090/ips/block/webcat?cat=71&pl=0&lu=0&url=aHR0cDovL2FmdGVyeW91LmZyL3Ryd2N1YWw~ "HTTP/1.1 403 Forbidden"
+2025-12-29 14:16:24,872 INFO Scan complete
+2025-12-29 14:16:26,917 INFO Scanning: http://agaoglu-mytown.com/746t3fg3
+2025-12-29 14:16:39,124 WARNING HTTP timeout for http://agaoglu-mytown.com/746t3fg3 (attempt 1/2)
+2025-12-29 14:16:50,144 WARNING HTTP timeout for http://agaoglu-mytown.com/746t3fg3 (attempt 2/2)
+2025-12-29 14:17:02,439 INFO Scan complete
+2025-12-29 14:17:04,519 INFO Scanning: http://agarty.kz/4GBrdf6
+2025-12-29 14:17:07,152 INFO HTTP Request: GET http://agarty.kz/4GBrdf6 "HTTP/1.1 301 Moved Permanently"
+2025-12-29 14:17:14,148 INFO HTTP Request: GET https://agarty.kz/4GBrdf6 "HTTP/1.1 404 Not Found"
+2025-12-29 14:17:14,152 INFO HTTP fetch successful: http://agarty.kz/4GBrdf6 (status=404, time=7.60s)
+2025-12-29 14:17:14,878 INFO Retrieved SSL certificate for agarty.kz
+2025-12-29 14:17:16,405 INFO HTTP Request: GET http://agarty.kz/4GBrdf6 "HTTP/1.1 301 Moved Permanently"
+2025-12-29 14:17:18,658 INFO HTTP Request: GET https://agarty.kz/4GBrdf6 "HTTP/1.1 404 Not Found"
+2025-12-29 14:17:18,740 INFO Scan complete
+2025-12-29 16:47:22,459 INFO Scanning: http://anonymouse.org/vip.html
+2025-12-29 16:47:25,255 INFO HTTP Request: GET http://anonymouse.org/vip.html "HTTP/1.1 200 OK"
+2025-12-29 16:47:25,259 INFO HTTP fetch successful: http://anonymouse.org/vip.html (status=200, time=2.33s)
+2025-12-29 16:47:48,428 INFO HTTP Request: GET http://anonymouse.org/vip.html "HTTP/1.1 200 OK"
+2025-12-29 16:47:48,496 INFO Scan complete
+2025-12-29 18:11:04,304 INFO Scanning: http://anonymouse.org/anonwww.html
+2025-12-29 18:11:04,900 INFO HTTP Request: GET http://anonymouse.org/anonwww.html "HTTP/1.1 200 OK"
+2025-12-29 18:11:04,903 INFO HTTP fetch successful: http://anonymouse.org/anonwww.html (status=200, time=0.41s)
+2025-12-29 18:11:27,693 INFO HTTP Request: GET http://anonymouse.org/anonwww.html "HTTP/1.1 200 OK"
+2025-12-29 18:11:27,713 INFO Scan complete
+2025-12-29 20:23:19,221 INFO Scanning: {
+2025-12-29 20:23:19,268 WARNING Domain { does not exist (NXDOMAIN)
+2025-12-29 20:23:19,370 WARNING Connection error for https://{/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:23:20,375 WARNING Connection error for https://{/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:23:20,498 INFO Scan complete
+2025-12-29 20:23:22,561 INFO Scanning: "dataType": "MaliciousPayload",
+2025-12-29 20:23:22,584 WARNING Domain "dataType" does not exist (NXDOMAIN)
+2025-12-29 20:23:22,653 ERROR Invalid URL: https://"dataType": "MaliciousPayload",/
+2025-12-29 20:23:22,726 INFO Scan complete
+2025-12-29 20:23:22,743 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"dataType"_20251229_202322.json'
+2025-12-29 20:23:24,745 INFO Scanning: "command": "rm -rf /",
+2025-12-29 20:23:24,773 WARNING Domain "command" does not exist (NXDOMAIN)
+2025-12-29 20:23:24,845 ERROR Invalid URL: https://"command": "rm -rf /",
+2025-12-29 20:23:24,929 INFO Scan complete
+2025-12-29 20:23:24,940 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"command"_20251229_202324.json'
+2025-12-29 20:23:26,942 INFO Scanning: "target": "system_files"
+2025-12-29 20:23:26,999 WARNING Domain "target" does not exist (NXDOMAIN)
+2025-12-29 20:23:27,184 ERROR Invalid URL: https://"target": "system_files"/
+2025-12-29 20:23:27,271 INFO Scan complete
+2025-12-29 20:23:27,281 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"target"_20251229_202327.json'
+2025-12-29 20:23:29,284 INFO Scanning: }
+2025-12-29 20:23:29,318 WARNING Domain } does not exist (NXDOMAIN)
+2025-12-29 20:23:34,395 WARNING Connection error for https://}/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:23:35,400 WARNING Connection error for https://}/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:23:35,484 INFO Scan complete
+2025-12-29 20:31:39,628 INFO Scanning: {
+2025-12-29 20:31:39,746 WARNING Domain { does not exist (NXDOMAIN)
+2025-12-29 20:31:41,066 WARNING Connection error for https://{/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:31:42,070 WARNING Connection error for https://{/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:31:42,219 INFO Scan complete
+2025-12-29 20:31:44,250 INFO Scanning: "dataType": "MaliciousPayload",
+2025-12-29 20:31:44,273 WARNING Domain "dataType" does not exist (NXDOMAIN)
+2025-12-29 20:31:44,342 ERROR Invalid URL: https://"dataType": "MaliciousPayload",/
+2025-12-29 20:31:44,403 INFO Scan complete
+2025-12-29 20:31:44,412 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"dataType"_20251229_203144.json'
+2025-12-29 20:31:46,415 INFO Scanning: "command": "rm -rf /",
+2025-12-29 20:31:46,467 WARNING Domain "command" does not exist (NXDOMAIN)
+2025-12-29 20:31:46,539 ERROR Invalid URL: https://"command": "rm -rf /",
+2025-12-29 20:31:46,629 INFO Scan complete
+2025-12-29 20:31:46,644 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"command"_20251229_203146.json'
+2025-12-29 20:31:48,646 INFO Scanning: "target": "system_files"
+2025-12-29 20:31:48,681 WARNING Domain "target" does not exist (NXDOMAIN)
+2025-12-29 20:31:48,755 ERROR Invalid URL: https://"target": "system_files"/
+2025-12-29 20:31:48,839 INFO Scan complete
+2025-12-29 20:31:48,849 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"target"_20251229_203148.json'
+2025-12-29 20:31:50,851 INFO Scanning: }
+2025-12-29 20:31:50,888 WARNING Domain } does not exist (NXDOMAIN)
+2025-12-29 20:31:50,958 WARNING Connection error for https://}/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:31:51,961 WARNING Connection error for https://}/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:31:52,034 INFO Scan complete
+2025-12-29 20:43:52,366 INFO Scanning: {
+2025-12-29 20:43:52,421 WARNING Domain { does not exist (NXDOMAIN)
+2025-12-29 20:43:52,524 WARNING Connection error for https://{/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:43:53,529 WARNING Connection error for https://{/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:43:53,621 INFO Scan complete
+2025-12-29 20:43:55,643 INFO Scanning: "comment_text": "<script>alert('XSS_Test_A01')</script>",
+2025-12-29 20:43:55,680 WARNING Domain "comment_text" does not exist (NXDOMAIN)
+2025-12-29 20:43:55,873 ERROR Invalid URL: https://"comment_text": "<script>alert('XSS_Test_A01')</script>",
+2025-12-29 20:43:55,932 INFO Scan complete
+2025-12-29 20:43:55,942 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"comment_text"_20251229_204355.json'
+2025-12-29 20:43:57,945 INFO Scanning: "search_query": "test' OR '1'='1",
+2025-12-29 20:43:58,018 WARNING Domain "search_query" does not exist (NXDOMAIN)
+2025-12-29 20:43:58,178 ERROR Invalid URL: https://"search_query": "test' OR '1'='1",/
+2025-12-29 20:43:58,256 INFO Scan complete
+2025-12-29 20:43:58,267 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"search_query"_20251229_204358.json'
+2025-12-29 20:44:00,270 INFO Scanning: "user_id": 1,
+2025-12-29 20:44:00,337 WARNING Domain "user_id" does not exist (NXDOMAIN)
+2025-12-29 20:44:00,454 ERROR Invalid URL: https://"user_id": 1,/
+2025-12-29 20:44:00,515 INFO Scan complete
+2025-12-29 20:44:00,526 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"user_id"_20251229_204400.json'
+2025-12-29 20:44:02,528 INFO Scanning: "is_admin": true,
+2025-12-29 20:44:02,569 WARNING Domain "is_admin" does not exist (NXDOMAIN)
+2025-12-29 20:44:02,775 ERROR Invalid URL: https://"is_admin": true,/
+2025-12-29 20:44:02,833 INFO Scan complete
+2025-12-29 20:44:02,846 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"is_admin"_20251229_204402.json'
+2025-12-29 20:44:04,849 INFO Scanning: "serialized_gadget": {
+2025-12-29 20:44:04,885 WARNING Domain "serialized_gadget" does not exist (NXDOMAIN)
+2025-12-29 20:44:04,957 ERROR Invalid URL: https://"serialized_gadget": {/
+2025-12-29 20:44:05,044 INFO Scan complete
+2025-12-29 20:44:05,055 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"serialized_gadget"_20251229_204405.json'
+2025-12-29 20:44:07,060 INFO Scanning: "@type": "com.example.vulnerable.Class",
+2025-12-29 20:44:07,098 WARNING Domain type" does not exist (NXDOMAIN)
+2025-12-29 20:44:07,191 ERROR Invalid URL: https://"@type": "com.example.vulnerable.Class",/
+2025-12-29 20:44:07,264 INFO Scan complete
+2025-12-29 20:44:07,276 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\type"_20251229_204407.json'
+2025-12-29 20:44:09,284 INFO Scanning: "command": "whoami"
+2025-12-29 20:44:09,341 WARNING Domain "command" does not exist (NXDOMAIN)
+2025-12-29 20:44:09,446 ERROR Invalid URL: https://"command": "whoami"/
+2025-12-29 20:44:09,520 INFO Scan complete
+2025-12-29 20:44:09,532 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"command"_20251229_204409.json'
+2025-12-29 20:44:11,534 INFO Scanning: },
+2025-12-29 20:44:11,573 WARNING Domain }, does not exist (NXDOMAIN)
+2025-12-29 20:44:11,663 WARNING Connection error for https://},/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:44:12,667 WARNING Connection error for https://},/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:44:12,758 INFO Scan complete
+2025-12-29 20:44:14,812 INFO Scanning: "auth_token": "eyJhbGciOiJub25lIn0.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.",
+2025-12-29 20:44:14,868 WARNING Domain "auth_token" does not exist (NXDOMAIN)
+2025-12-29 20:44:15,060 ERROR Invalid URL: https://"auth_token": "eyJhbGciOiJub25lIn0.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.",/
+2025-12-29 20:44:15,112 INFO Scan complete
+2025-12-29 20:44:15,121 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"auth_token"_20251229_204415.json'
+2025-12-29 20:44:17,123 INFO Scanning: "debug_mode": "on",
+2025-12-29 20:44:17,160 WARNING Domain "debug_mode" does not exist (NXDOMAIN)
+2025-12-29 20:44:17,272 ERROR Invalid URL: https://"debug_mode": "on",/
+2025-12-29 20:44:17,326 INFO Scan complete
+2025-12-29 20:44:17,335 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"debug_mode"_20251229_204417.json'
+2025-12-29 20:44:19,339 INFO Scanning: "new_password": "123456"
+2025-12-29 20:44:19,371 WARNING Domain "new_password" does not exist (NXDOMAIN)
+2025-12-29 20:44:19,462 ERROR Invalid URL: https://"new_password": "123456"/
+2025-12-29 20:44:19,549 INFO Scan complete
+2025-12-29 20:44:19,560 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"new_password"_20251229_204419.json'
+2025-12-29 20:44:21,565 INFO Scanning: }
+2025-12-29 20:44:21,621 WARNING Domain } does not exist (NXDOMAIN)
+2025-12-29 20:44:21,720 WARNING Connection error for https://}/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:44:22,723 WARNING Connection error for https://}/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:44:22,823 INFO Scan complete
+2025-12-29 20:58:59,842 INFO Scanning: {
+2025-12-29 20:58:59,877 WARNING Domain { does not exist (NXDOMAIN)
+2025-12-29 20:58:59,965 WARNING Connection error for https://{/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:59:00,970 WARNING Connection error for https://{/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:59:01,109 INFO Scan complete
+2025-12-29 20:59:03,143 INFO Scanning: "metadata": {
+2025-12-29 20:59:03,173 WARNING Domain "metadata" does not exist (NXDOMAIN)
+2025-12-29 20:59:03,258 ERROR Invalid URL: https://"metadata": {/
+2025-12-29 20:59:03,333 INFO Scan complete
+2025-12-29 20:59:03,345 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"metadata"_20251229_205903.json'
+2025-12-29 20:59:05,349 INFO Scanning: "description": "OWASP Top 10 Detection Patterns for Security Testing",
+2025-12-29 20:59:05,395 WARNING Domain "description" does not exist (NXDOMAIN)
+2025-12-29 20:59:05,471 ERROR Invalid URL: https://"description": "OWASP Top 10 Detection Patterns for Security Testing",/
+2025-12-29 20:59:05,552 INFO Scan complete
+2025-12-29 20:59:05,564 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"description"_20251229_205905.json'
+2025-12-29 20:59:07,567 INFO Scanning: "purpose": "To verify if a scanner detects vulnerability signatures."
+2025-12-29 20:59:07,603 WARNING Domain "purpose" does not exist (NXDOMAIN)
+2025-12-29 20:59:07,872 ERROR Invalid URL: https://"purpose": "To verify if a scanner detects vulnerability signatures."/
+2025-12-29 20:59:07,960 INFO Scan complete
+2025-12-29 20:59:07,972 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"purpose"_20251229_205907.json'
+2025-12-29 20:59:09,976 INFO Scanning: },
+2025-12-29 20:59:10,036 WARNING Domain }, does not exist (NXDOMAIN)
+2025-12-29 20:59:10,122 WARNING Connection error for https://},/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:59:11,128 WARNING Connection error for https://},/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:59:11,222 INFO Scan complete
+2025-12-29 20:59:13,291 INFO Scanning: "test_payloads": {
+2025-12-29 20:59:13,320 WARNING Domain "test_payloads" does not exist (NXDOMAIN)
+2025-12-29 20:59:13,393 ERROR Invalid URL: https://"test_payloads": {/
+2025-12-29 20:59:13,469 INFO Scan complete
+2025-12-29 20:59:13,483 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"test_payloads"_20251229_205913.json'
+2025-12-29 20:59:15,491 INFO Scanning: "A01_Broken_Access_Control": [
+2025-12-29 20:59:17,501 INFO Scanning: "http://example.com/admin/deleteUser",
+2025-12-29 20:59:17,528 WARNING Domain "http does not exist (NXDOMAIN)
+2025-12-29 20:59:17,619 WARNING Connection error for https://"http://example.com/admin/deleteUser", (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:59:18,622 WARNING Connection error for https://"http://example.com/admin/deleteUser", (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:59:18,691 INFO Scan complete
+2025-12-29 20:59:18,699 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"http_20251229_205918.json'
+2025-12-29 20:59:20,703 INFO Scanning: "http://example.com/api/users/123/account",
+2025-12-29 20:59:20,731 WARNING Domain "http does not exist (NXDOMAIN)
+2025-12-29 20:59:20,800 WARNING Connection error for https://"http://example.com/api/users/123/account", (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:59:21,802 WARNING Connection error for https://"http://example.com/api/users/123/account", (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:59:21,857 INFO Scan complete
+2025-12-29 20:59:21,867 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"http_20251229_205921.json'
+2025-12-29 20:59:23,869 INFO Scanning: "{ \"role\": \"admin\", \"is_admin\": true }"
+2025-12-29 20:59:23,899 WARNING Domain "{ \"role\" does not exist (NXDOMAIN)
+2025-12-29 20:59:23,977 ERROR Invalid URL: https://"{ \"role\": \"admin\", \"is_admin\": true }"/
+2025-12-29 20:59:24,032 INFO Scan complete
+2025-12-29 20:59:24,042 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"{ \\"role\\"_20251229_205924.json'
+2025-12-29 20:59:26,047 INFO Scanning: ],
+2025-12-29 20:59:28,054 INFO Scanning: "A02_Cryptographic_Failures": [
+2025-12-29 20:59:30,062 INFO Scanning: "algorithm=none",
+2025-12-29 20:59:30,213 WARNING Domain "algorithm=none", does not exist (NXDOMAIN)
+2025-12-29 20:59:30,365 WARNING Connection error for https://"algorithm=none",/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:59:31,370 WARNING Connection error for https://"algorithm=none",/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:59:31,445 INFO Scan complete
+2025-12-29 20:59:31,458 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"algorithm=none",_20251229_205931.json'
+2025-12-29 20:59:33,464 INFO Scanning: "private_key=-----BEGIN RSA PRIVATE KEY-----",
+2025-12-29 20:59:38,485 WARNING DNS timeout for "private_key=-----BEGIN RSA PRIVATE KEY-----", A records
+2025-12-29 20:59:38,553 WARNING Connection error for https://"private_key=-----BEGIN RSA PRIVATE KEY-----",/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:59:39,558 WARNING Connection error for https://"private_key=-----BEGIN RSA PRIVATE KEY-----",/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:59:39,634 INFO Scan complete
+2025-12-29 20:59:39,645 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"private_key=-----BEGIN RSA PRIVATE KEY-----",_20251229_205939.json'
+2025-12-29 20:59:41,648 INFO Scanning: "password=123456"
+2025-12-29 20:59:41,675 WARNING Domain "password=123456" does not exist (NXDOMAIN)
+2025-12-29 20:59:41,769 WARNING Connection error for https://"password=123456"/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:59:42,773 WARNING Connection error for https://"password=123456"/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:59:42,850 INFO Scan complete
+2025-12-29 20:59:42,858 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"password=123456"_20251229_205942.json'
+2025-12-29 20:59:44,863 INFO Scanning: "A03_Injection_XSS": [
+2025-12-29 20:59:46,869 INFO Scanning: "<script>alert('XSS')</script>",
+2025-12-29 20:59:47,217 WARNING Domain "<script>alert('XSS')< does not exist (NXDOMAIN)
+2025-12-29 20:59:52,450 WARNING Connection error for https://"<script>alert('XSS')</script>", (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:59:53,453 WARNING Connection error for https://"<script>alert('XSS')</script>", (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:59:53,540 INFO Scan complete
+2025-12-29 20:59:53,554 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"<script>alert(\'XSS\')<_20251229_205953.json'
+2025-12-29 20:59:55,557 INFO Scanning: "<img src=x onerror=alert(1)>",
+2025-12-29 20:59:55,593 WARNING Domain "<img src=x onerror=alert(1)>", does not exist (NXDOMAIN)
+2025-12-29 20:59:55,681 WARNING Connection error for https://"<img src=x onerror=alert(1)>",/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:59:56,684 WARNING Connection error for https://"<img src=x onerror=alert(1)>",/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:59:56,757 INFO Scan complete
+2025-12-29 20:59:56,773 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"<img src=x onerror=alert(1)>",_20251229_205956.json'
+2025-12-29 20:59:58,776 INFO Scanning: "javascript:/*--></title></style></textarea></script></xmp><svg/onload='+/\"/+/onmouseover=1/+/[*/[]/+alert(1)//'>",
+2025-12-29 20:59:58,802 WARNING Domain "javascript does not exist (NXDOMAIN)
+2025-12-29 20:59:58,867 WARNING Connection error for https://"javascript:/*--></title></style></textarea></script></xmp><svg/onload='+/\"/+/onmouseover=1/+/[*/[]/+alert(1)//'>", (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:59:59,871 WARNING Connection error for https://"javascript:/*--></title></style></textarea></script></xmp><svg/onload='+/\"/+/onmouseover=1/+/[*/[]/+alert(1)//'>", (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 20:59:59,982 INFO Scan complete
+2025-12-29 20:59:59,990 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"javascript_20251229_205959.json'
+2025-12-29 21:00:01,992 INFO Scanning: "${7*7}"
+2025-12-29 21:00:02,028 WARNING Domain "${7*7}" does not exist (NXDOMAIN)
+2025-12-29 21:00:02,201 WARNING Connection error for https://"${7*7}"/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:00:03,203 WARNING Connection error for https://"${7*7}"/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:00:03,260 INFO Scan complete
+2025-12-29 21:00:03,270 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"${7*7}"_20251229_210003.json'
+2025-12-29 21:00:05,274 INFO Scanning: "A03_Injection_SQL": [
+2025-12-29 21:00:07,280 INFO Scanning: "' OR '1'='1",
+2025-12-29 21:00:07,319 WARNING Domain "' OR '1'='1", does not exist (NXDOMAIN)
+2025-12-29 21:00:07,394 WARNING Connection error for https://"' OR '1'='1",/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:00:08,397 WARNING Connection error for https://"' OR '1'='1",/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:00:08,473 INFO Scan complete
+2025-12-29 21:00:08,488 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"\' OR \'1\'=\'1",_20251229_210008.json'
+2025-12-29 21:00:10,491 INFO Scanning: "1' ORDER BY 1--",
+2025-12-29 21:00:10,526 WARNING Domain "1' ORDER BY 1--", does not exist (NXDOMAIN)
+2025-12-29 21:00:10,591 WARNING Connection error for https://"1' ORDER BY 1--",/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:00:11,595 WARNING Connection error for https://"1' ORDER BY 1--",/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:00:11,670 INFO Scan complete
+2025-12-29 21:00:11,681 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"1\' ORDER BY 1--",_20251229_210011.json'
+2025-12-29 21:00:13,684 INFO Scanning: "'; DROP TABLE users; --",
+2025-12-29 21:00:13,723 WARNING Domain "'; DROP TABLE users; --", does not exist (NXDOMAIN)
+2025-12-29 21:00:13,803 WARNING Connection error for https://"'; DROP TABLE users; --",/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:00:14,808 WARNING Connection error for https://"'; DROP TABLE users; --",/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:00:14,890 INFO Scan complete
+2025-12-29 21:00:14,901 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"\'; DROP TABLE users; --",_20251229_210014.json'
+2025-12-29 21:00:16,905 INFO Scanning: "1 UNION SELECT NULL, username, password FROM users"
+2025-12-29 21:00:16,934 WARNING Domain "1 UNION SELECT NULL, username, password FROM users" does not exist (NXDOMAIN)
+2025-12-29 21:00:17,407 ERROR Unexpected error fetching https://"1 UNION SELECT NULL, username, password FROM users"/: 'idna' codec can't encode characters in position 0-65: label too long
+2025-12-29 21:00:17,475 INFO Scan complete
+2025-12-29 21:00:17,488 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"1 UNION SELECT NULL, username, password FROM users"_20251229_210017.json'
+2025-12-29 21:00:19,492 INFO Scanning: "A03_Injection_Command": [
+2025-12-29 21:00:21,496 INFO Scanning: "; ls -la",
+2025-12-29 21:00:21,522 WARNING Domain "; ls -la", does not exist (NXDOMAIN)
+2025-12-29 21:00:21,591 WARNING Connection error for https://"; ls -la",/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:00:22,594 WARNING Connection error for https://"; ls -la",/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:00:22,651 INFO Scan complete
+2025-12-29 21:00:22,660 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"; ls -la",_20251229_210022.json'
+2025-12-29 21:00:24,662 INFO Scanning: "| cat /etc/passwd",
+2025-12-29 21:00:24,690 WARNING Domain "| cat does not exist (NXDOMAIN)
+2025-12-29 21:00:24,786 WARNING Connection error for https://"| cat /etc/passwd", (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:00:25,790 WARNING Connection error for https://"| cat /etc/passwd", (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:00:25,871 INFO Scan complete
+2025-12-29 21:00:25,886 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"| cat_20251229_210025.json'
+2025-12-29 21:00:27,889 INFO Scanning: "$(whoami)",
+2025-12-29 21:00:27,923 WARNING Domain "$(whoami)", does not exist (NXDOMAIN)
+2025-12-29 21:00:28,001 WARNING Connection error for https://"$(whoami)",/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:00:29,006 WARNING Connection error for https://"$(whoami)",/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:00:29,110 INFO Scan complete
+2025-12-29 21:00:29,125 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"$(whoami)",_20251229_210029.json'
+2025-12-29 21:00:31,129 INFO Scanning: "`id`"
+2025-12-29 21:00:31,163 WARNING Domain "`id`" does not exist (NXDOMAIN)
+2025-12-29 21:00:31,239 WARNING Connection error for https://"`id`"/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:00:32,243 WARNING Connection error for https://"`id`"/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:00:32,316 INFO Scan complete
+2025-12-29 21:00:32,328 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"`id`"_20251229_210032.json'
+2025-12-29 21:00:34,334 INFO Scanning: "A04_Insecure_Design": [
+2025-12-29 21:00:36,340 INFO Scanning: "http://example.com/reset?token=guessable_token",
+2025-12-29 21:00:36,373 WARNING Domain "http does not exist (NXDOMAIN)
+2025-12-29 21:00:36,483 WARNING Connection error for https://"http://example.com/reset?token=guessable_token", (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:00:37,485 WARNING Connection error for https://"http://example.com/reset?token=guessable_token", (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:00:37,561 INFO Scan complete
+2025-12-29 21:00:37,573 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"http_20251229_210037.json'
+2025-12-29 21:00:39,575 INFO Scanning: "http://example.com/export?format=csv&cols=id,credit_card"
+2025-12-29 21:00:39,601 WARNING Domain "http does not exist (NXDOMAIN)
+2025-12-29 21:00:39,692 WARNING Connection error for https://"http://example.com/export?format=csv&cols=id,credit_card" (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:00:40,697 WARNING Connection error for https://"http://example.com/export?format=csv&cols=id,credit_card" (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:00:40,776 INFO Scan complete
+2025-12-29 21:00:40,787 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"http_20251229_210040.json'
+2025-12-29 21:00:42,789 INFO Scanning: "A05_Security_Misconfiguration": [
+2025-12-29 21:00:44,797 INFO Scanning: "Server: Apache/2.4.18 (Ubuntu)",
+2025-12-29 21:00:44,977 WARNING Domain "Server does not exist (NXDOMAIN)
+2025-12-29 21:00:45,061 ERROR Invalid URL: https://"Server: Apache/2.4.18 (Ubuntu)",
+2025-12-29 21:00:45,141 INFO Scan complete
+2025-12-29 21:00:45,155 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"Server_20251229_210045.json'
+2025-12-29 21:00:47,159 INFO Scanning: "X-Debug-Mode: true",
+2025-12-29 21:00:47,199 WARNING Domain "X-Debug-Mode does not exist (NXDOMAIN)
+2025-12-29 21:00:47,278 ERROR Invalid URL: https://"X-Debug-Mode: true",/
+2025-12-29 21:00:47,353 INFO Scan complete
+2025-12-29 21:00:47,366 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"X-Debug-Mode_20251229_210047.json'
+2025-12-29 21:00:49,369 INFO Scanning: "Directory listing for /"
+2025-12-29 21:00:49,396 WARNING Domain "Directory listing for does not exist (NXDOMAIN)
+2025-12-29 21:00:49,481 WARNING Connection error for https://"Directory listing for /" (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:00:50,484 WARNING Connection error for https://"Directory listing for /" (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:00:50,577 INFO Scan complete
+2025-12-29 21:00:50,590 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"Directory listing for_20251229_210050.json'
+2025-12-29 21:00:52,594 INFO Scanning: "A06_Vulnerable_Outdated_Components": [
+2025-12-29 21:00:54,600 INFO Scanning: "jquery-1.6.1.min.js",
+2025-12-29 21:00:54,632 WARNING Domain js", does not exist (NXDOMAIN)
+2025-12-29 21:00:54,706 WARNING Connection error for https://"jquery-1.6.1.min.js",/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:00:55,711 WARNING Connection error for https://"jquery-1.6.1.min.js",/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:00:55,794 INFO Scan complete
+2025-12-29 21:00:55,806 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\js",_20251229_210055.json'
+2025-12-29 21:00:57,809 INFO Scanning: "spring-framework-4.3.0.RELEASE.jar"
+2025-12-29 21:00:57,843 WARNING Domain jar" does not exist (NXDOMAIN)
+2025-12-29 21:00:58,114 WARNING Connection error for https://"spring-framework-4.3.0.RELEASE.jar"/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:00:59,118 WARNING Connection error for https://"spring-framework-4.3.0.RELEASE.jar"/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:00:59,177 INFO Scan complete
+2025-12-29 21:00:59,184 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\jar"_20251229_210059.json'
+2025-12-29 21:01:01,190 INFO Scanning: "A07_Identication_Failures": [
+2025-12-29 21:01:03,200 INFO Scanning: "GET /login?user=admin&pass=",
+2025-12-29 21:01:03,246 WARNING Domain "GET does not exist (NXDOMAIN)
+2025-12-29 21:01:03,327 WARNING Connection error for https://"GET /login?user=admin&pass=", (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:01:04,331 WARNING Connection error for https://"GET /login?user=admin&pass=", (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:01:04,409 INFO Scan complete
+2025-12-29 21:01:04,424 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"GET_20251229_210104.json'
+2025-12-29 21:01:06,429 INFO Scanning: "Response: \"User not found\"",
+2025-12-29 21:01:06,490 WARNING Domain "Response does not exist (NXDOMAIN)
+2025-12-29 21:01:06,563 ERROR Invalid URL: https://"Response: \"User not found\"",/
+2025-12-29 21:01:06,645 INFO Scan complete
+2025-12-29 21:01:06,665 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"Response_20251229_210106.json'
+2025-12-29 21:01:08,669 INFO Scanning: "Response: \"Invalid password\""
+2025-12-29 21:01:08,694 WARNING Domain "Response does not exist (NXDOMAIN)
+2025-12-29 21:01:08,944 ERROR Invalid URL: https://"Response: \"Invalid password\""/
+2025-12-29 21:01:09,029 INFO Scan complete
+2025-12-29 21:01:09,040 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"Response_20251229_210109.json'
+2025-12-29 21:01:11,045 INFO Scanning: "A08_Software_Data_Integrity_Failures": [
+2025-12-29 21:01:13,051 INFO Scanning: "{ \"signature\": \"\", \"data\": \"unsigned_content\" }",
+2025-12-29 21:01:13,082 WARNING Domain "{ \"signature\" does not exist (NXDOMAIN)
+2025-12-29 21:01:13,150 ERROR Invalid URL: https://"{ \"signature\": \"\", \"data\": \"unsigned_content\" }",/
+2025-12-29 21:01:13,232 INFO Scan complete
+2025-12-29 21:01:13,244 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"{ \\"signature\\"_20251229_210113.json'
+2025-12-29 21:01:15,248 INFO Scanning: "http://example.com/download?file=integrated_app.exe&source=untrusted"
+2025-12-29 21:01:15,283 WARNING Domain "http does not exist (NXDOMAIN)
+2025-12-29 21:01:15,360 WARNING Connection error for https://"http://example.com/download?file=integrated_app.exe&source=untrusted" (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:01:16,364 WARNING Connection error for https://"http://example.com/download?file=integrated_app.exe&source=untrusted" (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:01:16,450 INFO Scan complete
+2025-12-29 21:01:16,463 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"http_20251229_210116.json'
+2025-12-29 21:01:18,466 INFO Scanning: "A09_Security_Log_Monitoring": [
+2025-12-29 21:01:20,471 INFO Scanning: "alert('xss') traced in logs",
+2025-12-29 21:01:20,504 WARNING Domain "alert('xss') traced in logs", does not exist (NXDOMAIN)
+2025-12-29 21:01:20,579 WARNING Connection error for https://"alert('xss') traced in logs",/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:01:21,581 WARNING Connection error for https://"alert('xss') traced in logs",/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:01:21,636 INFO Scan complete
+2025-12-29 21:01:21,645 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"alert(\'xss\') traced in logs",_20251229_210121.json'
+2025-12-29 21:01:23,648 INFO Scanning: "admin' or '1'='1' found in access logs"
+2025-12-29 21:01:23,713 WARNING Domain "admin' or '1'='1' found in access logs" does not exist (NXDOMAIN)
+2025-12-29 21:01:23,811 WARNING Connection error for https://"admin' or '1'='1' found in access logs"/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:01:24,815 WARNING Connection error for https://"admin' or '1'='1' found in access logs"/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:01:24,888 INFO Scan complete
+2025-12-29 21:01:24,897 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"admin\' or \'1\'=\'1\' found in access logs"_20251229_210124.json'
+2025-12-29 21:01:26,901 INFO Scanning: "A10_Server_Side_Request_Forgery": [
+2025-12-29 21:01:28,908 INFO Scanning: "url=http://localhost:8080/admin",
+2025-12-29 21:01:28,943 WARNING Domain "url=http does not exist (NXDOMAIN)
+2025-12-29 21:01:29,023 WARNING Connection error for https://"url=http://localhost:8080/admin", (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:01:30,028 WARNING Connection error for https://"url=http://localhost:8080/admin", (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:01:30,110 INFO Scan complete
+2025-12-29 21:01:30,121 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"url=http_20251229_210130.json'
+2025-12-29 21:01:32,136 INFO Scanning: "url=http://169.254.169.254/latest/meta-data/",
+2025-12-29 21:01:32,172 WARNING Domain "url=http does not exist (NXDOMAIN)
+2025-12-29 21:01:32,261 WARNING Connection error for https://"url=http://169.254.169.254/latest/meta-data/", (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:01:33,264 WARNING Connection error for https://"url=http://169.254.169.254/latest/meta-data/", (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:01:33,351 INFO Scan complete
+2025-12-29 21:01:33,363 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"url=http_20251229_210133.json'
+2025-12-29 21:01:35,366 INFO Scanning: "url=file:///etc/passwd"
+2025-12-29 21:01:35,391 WARNING Domain "url=file does not exist (NXDOMAIN)
+2025-12-29 21:01:35,466 WARNING Connection error for https://"url=file:///etc/passwd" (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:01:36,472 WARNING Connection error for https://"url=file:///etc/passwd" (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:01:36,536 INFO Scan complete
+2025-12-29 21:01:36,545 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\"url=file_20251229_210136.json'
+2025-12-29 21:01:38,548 INFO Scanning: ]
+2025-12-29 21:01:40,552 INFO Scanning: }
+2025-12-29 21:01:40,578 WARNING Domain } does not exist (NXDOMAIN)
+2025-12-29 21:01:40,781 WARNING Connection error for https://}/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:01:41,784 WARNING Connection error for https://}/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:01:41,867 INFO Scan complete
+2025-12-29 21:05:31,735 INFO Scanning: X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*
+2025-12-29 21:19:58,328 INFO Scanning: X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*
+2025-12-29 21:54:14,376 INFO Scanning: X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*
+2025-12-29 21:54:34,659 INFO Scanning: <!DOCTYPE html>
+2025-12-29 21:54:34,802 WARNING Domain <!DOCTYPE html> does not exist (NXDOMAIN)
+2025-12-29 21:54:36,207 WARNING Connection error for https://<!DOCTYPE html>/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:54:37,212 WARNING Connection error for https://<!DOCTYPE html>/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:54:37,392 INFO Scan complete
+2025-12-29 21:54:37,429 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<!DOCTYPE html>_20251229_215437.json'
+2025-12-29 21:54:39,433 INFO Scanning: <html lang="en">
+2025-12-29 21:54:39,717 WARNING Domain <html lang="en"> does not exist (NXDOMAIN)
+2025-12-29 21:54:39,948 WARNING Connection error for https://<html lang="en">/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:54:40,952 WARNING Connection error for https://<html lang="en">/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:54:41,055 INFO Scan complete
+2025-12-29 21:54:41,071 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<html lang="en">_20251229_215441.json'
+2025-12-29 21:54:43,074 INFO Scanning: <head>
+2025-12-29 21:54:43,228 WARNING Domain <head> does not exist (NXDOMAIN)
+2025-12-29 21:54:43,618 WARNING Connection error for https://<head>/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:54:44,621 WARNING Connection error for https://<head>/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:54:44,676 INFO Scan complete
+2025-12-29 21:54:44,686 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<head>_20251229_215444.json'
+2025-12-29 21:54:46,700 INFO Scanning: <meta charset="UTF-8">
+2025-12-29 21:54:46,731 WARNING Domain <meta charset="UTF-8"> does not exist (NXDOMAIN)
+2025-12-29 21:54:46,822 WARNING Connection error for https://<meta charset="UTF-8">/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:54:47,826 WARNING Connection error for https://<meta charset="UTF-8">/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:54:47,894 INFO Scan complete
+2025-12-29 21:54:47,903 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<meta charset="UTF-8">_20251229_215447.json'
+2025-12-29 21:54:49,907 INFO Scanning: <title>OWASP Compliance Test Target</title>
+2025-12-29 21:54:49,944 WARNING Domain <title>OWASP Compliance Test Target< does not exist (NXDOMAIN)
+2025-12-29 21:54:50,027 WARNING Connection error for https://<title>OWASP Compliance Test Target</title> (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:54:51,032 WARNING Connection error for https://<title>OWASP Compliance Test Target</title> (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:54:51,117 INFO Scan complete
+2025-12-29 21:54:51,132 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<title>OWASP Compliance Test Target<_20251229_215451.json'
+2025-12-29 21:54:53,135 INFO Scanning: <!-- ========================================== -->
+2025-12-29 21:54:53,159 WARNING Domain <!-- ========================================== --> does not exist (NXDOMAIN)
+2025-12-29 21:54:53,249 WARNING Connection error for https://<!-- ========================================== -->/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:54:54,256 WARNING Connection error for https://<!-- ========================================== -->/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:54:54,341 INFO Scan complete
+2025-12-29 21:54:54,352 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<!-- ========================================== -->_20251229_215454.json'
+2025-12-29 21:54:56,359 INFO Scanning: <!-- VULNERABILITY: A06:2021 - Vulnerable Components -->
+2025-12-29 21:54:56,392 WARNING Domain <!-- VULNERABILITY does not exist (NXDOMAIN)
+2025-12-29 21:55:01,458 ERROR Invalid URL: https://<!-- VULNERABILITY: A06:2021 - Vulnerable Components -->/
+2025-12-29 21:55:01,538 INFO Scan complete
+2025-12-29 21:55:01,569 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<!-- VULNERABILITY_20251229_215501.json'
+2025-12-29 21:55:03,571 INFO Scanning: <!-- We are intentionally loading an outdated, vulnerable version of jQuery (1.6.1). -->
+2025-12-29 21:55:03,596 WARNING Domain  --> does not exist (NXDOMAIN)
+2025-12-29 21:55:08,670 ERROR Unexpected error fetching https://<!-- We are intentionally loading an outdated, vulnerable version of jQuery (1.6.1). -->/: 'idna' codec can't encode characters in position 0-101: label too long
+2025-12-29 21:55:08,751 INFO Scan complete
+2025-12-29 21:55:08,773 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\ -->_20251229_215508.json'
+2025-12-29 21:55:10,777 INFO Scanning: <!-- Scanners should flag this as a known CVE library. -->
+2025-12-29 21:55:10,806 WARNING Domain  --> does not exist (NXDOMAIN)
+2025-12-29 21:55:10,904 ERROR Unexpected error fetching https://<!-- Scanners should flag this as a known CVE library. -->/: 'idna' codec can't encode characters in position 0-72: label too long
+2025-12-29 21:55:10,980 INFO Scan complete
+2025-12-29 21:55:10,988 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\ -->_20251229_215510.json'
+2025-12-29 21:55:12,991 INFO Scanning: <script src="https://code.jquery.com/jquery-1.6.1.min.js"></script>
+2025-12-29 21:55:13,032 WARNING Domain <script src="https does not exist (NXDOMAIN)
+2025-12-29 21:55:13,174 WARNING Connection error for https://<script src="https://code.jquery.com/jquery-1.6.1.min.js"></script> (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:55:14,177 WARNING Connection error for https://<script src="https://code.jquery.com/jquery-1.6.1.min.js"></script> (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:55:14,249 INFO Scan complete
+2025-12-29 21:55:14,262 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<script src="https_20251229_215514.json'
+2025-12-29 21:55:16,264 INFO Scanning: </head>
+2025-12-29 21:55:16,348 WARNING Domain < does not exist (NXDOMAIN)
+2025-12-29 21:55:16,456 WARNING Connection error for https://</head> (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:55:17,459 WARNING Connection error for https://</head> (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:55:17,517 INFO Scan complete
+2025-12-29 21:55:17,528 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<_20251229_215517.json'
+2025-12-29 21:55:19,531 INFO Scanning: <body>
+2025-12-29 21:55:19,565 WARNING Domain <body> does not exist (NXDOMAIN)
+2025-12-29 21:55:19,659 WARNING Connection error for https://<body>/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:55:20,662 WARNING Connection error for https://<body>/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:55:20,727 INFO Scan complete
+2025-12-29 21:55:20,738 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<body>_20251229_215520.json'
+2025-12-29 21:55:22,740 INFO Scanning: <h1>Security Scanner Test Page</h1>
+2025-12-29 21:55:22,777 WARNING Domain <h1>Security Scanner Test Page< does not exist (NXDOMAIN)
+2025-12-29 21:55:22,938 WARNING Connection error for https://<h1>Security Scanner Test Page</h1> (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:55:23,940 WARNING Connection error for https://<h1>Security Scanner Test Page</h1> (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:55:24,025 INFO Scan complete
+2025-12-29 21:55:24,037 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<h1>Security Scanner Test Page<_20251229_215524.json'
+2025-12-29 21:55:26,039 INFO Scanning: <p>This page is designed to trigger compliance failures.</p>
+2025-12-29 21:55:26,071 WARNING Domain < does not exist (NXDOMAIN)
+2025-12-29 21:55:26,194 ERROR Unexpected error fetching https://<p>This page is designed to trigger compliance failures.</p>: 'idna' codec can't encode characters in position 0-72: label too long
+2025-12-29 21:55:26,263 INFO Scan complete
+2025-12-29 21:55:26,274 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<_20251229_215526.json'
+2025-12-29 21:55:28,290 INFO Scanning: <!-- VULNERABILITY: A03:2021 - Injection (Reflected XSS) -->
+2025-12-29 21:55:28,324 WARNING Domain <!-- VULNERABILITY does not exist (NXDOMAIN)
+2025-12-29 21:55:28,426 ERROR Invalid URL: https://<!-- VULNERABILITY: A03:2021 - Injection (Reflected XSS) -->/
+2025-12-29 21:55:28,497 INFO Scan complete
+2025-12-29 21:55:28,511 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<!-- VULNERABILITY_20251229_215528.json'
+2025-12-29 21:55:30,515 INFO Scanning: <!--
+2025-12-29 21:55:30,549 WARNING Domain <!-- does not exist (NXDOMAIN)
+2025-12-29 21:55:30,636 WARNING Connection error for https://<!--/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:55:31,641 WARNING Connection error for https://<!--/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:55:31,701 INFO Scan complete
+2025-12-29 21:55:31,710 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<!--_20251229_215531.json'
+2025-12-29 21:55:33,713 INFO Scanning: Usage: Open this file in your browser with a query parameter.
+2025-12-29 21:55:33,741 WARNING Domain Usage does not exist (NXDOMAIN)
+2025-12-29 21:55:41,155 ERROR Invalid URL: https://Usage: Open this file in your browser with a query parameter./
+2025-12-29 21:55:43,912 INFO Scan complete
+2025-12-29 21:55:45,951 INFO Scanning: Example: test_scan.html?q=<script>alert(1)</script>
+2025-12-29 21:55:45,997 WARNING Domain Example does not exist (NXDOMAIN)
+2025-12-29 21:55:48,820 ERROR Invalid URL: https://Example: test_scan.html/?q=<script>alert(1)</script>
+2025-12-29 21:55:51,591 INFO Scan complete
+2025-12-29 21:55:53,653 INFO Scanning: The script below takes the 'q' parameter and writes it directly
+2025-12-29 21:55:53,691 WARNING Domain The script below takes the 'q' parameter and writes it directly does not exist (NXDOMAIN)
+2025-12-29 21:55:53,793 ERROR Unexpected error fetching https://The script below takes the 'q' parameter and writes it directly/: 'idna' codec can't encode characters in position 0-82: label too long
+2025-12-29 21:55:53,862 INFO Scan complete
+2025-12-29 21:55:55,926 INFO Scanning: to the page without sanitization. This is a Reflected XSS vulnerability.
+2025-12-29 21:55:55,980 WARNING Domain  This is a Reflected XSS vulnerability does not exist (NXDOMAIN)
+2025-12-29 21:56:01,091 WARNING Connection error for https://to the page without sanitization. This is a Reflected XSS vulnerability./ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:56:02,093 WARNING Connection error for https://to the page without sanitization. This is a Reflected XSS vulnerability./ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:56:02,146 INFO Scan complete
+2025-12-29 21:56:04,191 INFO Scanning: -->
+2025-12-29 21:56:04,241 WARNING Domain --> does not exist (NXDOMAIN)
+2025-12-29 21:56:04,381 WARNING Connection error for https://-->/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:56:05,384 WARNING Connection error for https://-->/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:56:05,468 INFO Scan complete
+2025-12-29 21:56:05,482 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\-->_20251229_215605.json'
+2025-12-29 21:56:07,484 INFO Scanning: <div id="search-output"></div>
+2025-12-29 21:56:07,580 WARNING Domain <div id="search-output">< does not exist (NXDOMAIN)
+2025-12-29 21:56:07,655 WARNING Connection error for https://<div id="search-output"></div> (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:56:08,658 WARNING Connection error for https://<div id="search-output"></div> (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:56:08,714 INFO Scan complete
+2025-12-29 21:56:08,725 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<div id="search-output"><_20251229_215608.json'
+2025-12-29 21:56:10,728 INFO Scanning: <script>
+2025-12-29 21:56:10,775 WARNING Domain <script> does not exist (NXDOMAIN)
+2025-12-29 21:56:10,852 WARNING Connection error for https://<script>/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:56:11,854 WARNING Connection error for https://<script>/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:56:11,915 INFO Scan complete
+2025-12-29 21:56:11,924 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<script>_20251229_215611.json'
+2025-12-29 21:56:13,927 INFO Scanning: // Simulate a search feature that reflects user input unsafely
+2025-12-29 21:56:13,930 ERROR Unexpected error fetching https://// Simulate a search feature that reflects user input unsafely: Request URL is missing an 'http://' or 'https://' protocol.
+2025-12-29 21:56:13,931 INFO Scan complete
+2025-12-29 21:56:15,985 INFO Scanning: const urlParams = new URLSearchParams(window.location.search);
+2025-12-29 21:56:16,165 WARNING Domain search); does not exist (NXDOMAIN)
+2025-12-29 21:56:16,245 WARNING Connection error for https://const urlParams = new URLSearchParams(window.location.search);/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:56:17,252 WARNING Connection error for https://const urlParams = new URLSearchParams(window.location.search);/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:56:17,319 INFO Scan complete
+2025-12-29 21:56:19,376 INFO Scanning: const userInput = urlParams.get('q');
+2025-12-29 21:56:19,404 WARNING Domain get('q'); does not exist (NXDOMAIN)
+2025-12-29 21:56:19,474 WARNING Connection error for https://const userInput = urlParams.get('q');/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:56:20,479 WARNING Connection error for https://const userInput = urlParams.get('q');/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:56:20,553 INFO Scan complete
+2025-12-29 21:56:22,617 INFO Scanning: if (userInput) {
+2025-12-29 21:56:22,639 WARNING Domain if (userInput) { does not exist (NXDOMAIN)
+2025-12-29 21:56:22,720 WARNING Connection error for https://if (userInput) {/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:56:23,723 WARNING Connection error for https://if (userInput) {/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:56:23,788 INFO Scan complete
+2025-12-29 21:56:25,849 INFO Scanning: // VULNERABLE CODE: Using innerHTML with user input
+2025-12-29 21:56:25,854 ERROR Unexpected error fetching https://// VULNERABLE CODE: Using innerHTML with user input: Request URL is missing an 'http://' or 'https://' protocol.
+2025-12-29 21:56:25,855 INFO Scan complete
+2025-12-29 21:56:27,907 INFO Scanning: document.getElementById('search-output').innerHTML = "Results for: " + userInput;
+2025-12-29 21:56:27,943 WARNING Domain innerHTML = "Results for does not exist (NXDOMAIN)
+2025-12-29 21:56:28,157 ERROR Invalid URL: https://document.getElementById('search-output').innerHTML = "Results for: " + userInput;/
+2025-12-29 21:56:28,231 INFO Scan complete
+2025-12-29 21:56:28,241 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\innerHTML = "Results for_20251229_215628.json'
+2025-12-29 21:56:30,245 INFO Scanning: }
+2025-12-29 21:56:30,278 WARNING Domain } does not exist (NXDOMAIN)
+2025-12-29 21:56:30,340 WARNING Connection error for https://}/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:56:31,343 WARNING Connection error for https://}/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:56:31,430 INFO Scan complete
+2025-12-29 21:56:33,493 INFO Scanning: </script>
+2025-12-29 21:56:33,520 WARNING Domain < does not exist (NXDOMAIN)
+2025-12-29 21:56:33,589 WARNING Connection error for https://</script> (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:56:34,593 WARNING Connection error for https://</script> (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:56:34,685 INFO Scan complete
+2025-12-29 21:56:34,695 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<_20251229_215634.json'
+2025-12-29 21:56:36,698 INFO Scanning: <!-- VULNERABILITY: A01:2021 - Broken Access Control -->
+2025-12-29 21:56:36,729 WARNING Domain <!-- VULNERABILITY does not exist (NXDOMAIN)
+2025-12-29 21:56:36,810 ERROR Invalid URL: https://<!-- VULNERABILITY: A01:2021 - Broken Access Control -->/
+2025-12-29 21:56:36,897 INFO Scan complete
+2025-12-29 21:56:36,910 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<!-- VULNERABILITY_20251229_215636.json'
+2025-12-29 21:56:38,913 INFO Scanning: In a real app, this link would access a user profile via a predictable ID.
+2025-12-29 21:56:38,921 ERROR Unexpected error fetching https://In a real app, this link would access a user profile via a predictable ID./: 'idna' codec can't encode characters in position 0-100: label too long
+2025-12-29 21:56:38,988 ERROR Unexpected error retrieving certificate for In a real app, this link would access a user profile via a predictable ID: 'idna' codec can't encode characters in position 0-72: label too long
+2025-12-29 21:56:38,990 INFO Scan complete
+2025-12-29 21:56:41,050 INFO Scanning: A scanner or manual tester would try changing 'id=123' to 'id=124'
+2025-12-29 21:56:41,056 ERROR Unexpected error fetching https://A scanner or manual tester would try changing 'id=123' to 'id=124'/: 'idna' codec can't encode characters in position 0-85: label too long
+2025-12-29 21:56:41,128 ERROR Unexpected error retrieving certificate for A scanner or manual tester would try changing 'id=123' to 'id=124': 'idna' codec can't encode characters in position 0-65: label too long
+2025-12-29 21:56:41,129 INFO Scan complete
+2025-12-29 21:56:43,193 INFO Scanning: to see if they can access another user's data.
+2025-12-29 21:56:43,222 WARNING Domain to see if they can access another user's data does not exist (NXDOMAIN)
+2025-12-29 21:56:43,290 WARNING Connection error for https://to see if they can access another user's data./ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:56:44,293 WARNING Connection error for https://to see if they can access another user's data./ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:56:44,354 INFO Scan complete
+2025-12-29 21:56:46,420 INFO Scanning: <a href="/api/user/profile?id=123">View My Profile</a>
+2025-12-29 21:56:46,455 WARNING Domain <a href=" does not exist (NXDOMAIN)
+2025-12-29 21:56:46,665 WARNING Connection error for https://<a href="/api/user/profile?id=123">View My Profile</a> (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:56:47,668 WARNING Connection error for https://<a href="/api/user/profile?id=123">View My Profile</a> (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:56:47,730 INFO Scan complete
+2025-12-29 21:56:47,740 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<a href="_20251229_215647.json'
+2025-12-29 21:56:49,743 INFO Scanning: <!-- NOTE FOR SCANNER CHECKS: A02 & A05 -->
+2025-12-29 21:56:49,775 WARNING Domain <!-- NOTE FOR SCANNER CHECKS does not exist (NXDOMAIN)
+2025-12-29 21:56:50,220 ERROR Invalid URL: https://<!-- NOTE FOR SCANNER CHECKS: A02 & A05 -->/
+2025-12-29 21:56:50,290 INFO Scan complete
+2025-12-29 21:56:50,302 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<!-- NOTE FOR SCANNER CHECKS_20251229_215650.json'
+2025-12-29 21:56:52,306 INFO Scanning: A02 (Crypto Failures) & A05 (Security Misconfiguration)
+2025-12-29 21:56:52,332 WARNING Domain A02 (Crypto Failures) & A05 (Security Misconfiguration) does not exist (NXDOMAIN)
+2025-12-29 21:56:52,406 ERROR Unexpected error fetching https://A02 (Crypto Failures) & A05 (Security Misconfiguration)/: 'idna' codec can't encode characters in position 0-66: label too long
+2025-12-29 21:56:52,471 INFO Scan complete
+2025-12-29 21:56:54,530 INFO Scanning: rely on Server Headers, not just HTML content.
+2025-12-29 21:56:54,610 WARNING Domain rely on Server Headers, not just HTML content does not exist (NXDOMAIN)
+2025-12-29 21:56:54,699 WARNING Connection error for https://rely on Server Headers, not just HTML content./ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:56:55,702 WARNING Connection error for https://rely on Server Headers, not just HTML content./ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:56:55,778 INFO Scan complete
+2025-12-29 21:56:57,830 INFO Scanning: To trigger these, ensure this file is served via HTTP (not HTTPS).
+2025-12-29 21:56:57,840 ERROR Unexpected error fetching https://To trigger these, ensure this file is served via HTTP (not HTTPS)./: 'idna' codec can't encode characters in position 0-86: label too long
+2025-12-29 21:56:57,924 ERROR Unexpected error retrieving certificate for To trigger these, ensure this file is served via HTTP (not HTTPS): 'idna' codec can't encode characters in position 0-64: label too long
+2025-12-29 21:56:57,926 INFO Scan complete
+2025-12-29 21:56:59,982 INFO Scanning: Also, ensure your server does NOT send headers like:
+2025-12-29 21:57:00,013 WARNING Domain Also, ensure your server does NOT send headers like does not exist (NXDOMAIN)
+2025-12-29 21:57:00,076 ERROR Unexpected error fetching https://Also, ensure your server does NOT send headers like:/: 'idna' codec can't encode characters in position 0-66: label too long
+2025-12-29 21:57:00,152 INFO Scan complete
+2025-12-29 21:57:02,210 INFO Scanning: - X-Frame-Options
+2025-12-29 21:57:02,241 WARNING Domain - X-Frame-Options does not exist (NXDOMAIN)
+2025-12-29 21:57:02,323 WARNING Connection error for https://- X-Frame-Options/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:57:03,326 WARNING Connection error for https://- X-Frame-Options/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:57:03,381 INFO Scan complete
+2025-12-29 21:57:05,441 INFO Scanning: - Content-Security-Policy
+2025-12-29 21:57:05,475 WARNING Domain - Content-Security-Policy does not exist (NXDOMAIN)
+2025-12-29 21:57:05,539 WARNING Connection error for https://- Content-Security-Policy/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:57:06,542 WARNING Connection error for https://- Content-Security-Policy/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:57:06,600 INFO Scan complete
+2025-12-29 21:57:08,653 INFO Scanning: - X-Content-Type-Options
+2025-12-29 21:57:08,685 WARNING Domain - X-Content-Type-Options does not exist (NXDOMAIN)
+2025-12-29 21:57:08,755 WARNING Connection error for https://- X-Content-Type-Options/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:57:09,761 WARNING Connection error for https://- X-Content-Type-Options/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:57:09,827 INFO Scan complete
+2025-12-29 21:57:11,884 INFO Scanning: </body>
+2025-12-29 21:57:11,915 WARNING Domain < does not exist (NXDOMAIN)
+2025-12-29 21:57:12,216 WARNING Connection error for https://</body> (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:57:13,219 WARNING Connection error for https://</body> (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:57:13,288 INFO Scan complete
+2025-12-29 21:57:13,298 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<_20251229_215713.json'
+2025-12-29 21:57:15,303 INFO Scanning: </html>
+2025-12-29 21:57:15,339 WARNING Domain < does not exist (NXDOMAIN)
+2025-12-29 21:57:15,432 WARNING Connection error for https://</html> (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:57:16,436 WARNING Connection error for https://</html> (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 21:57:16,486 INFO Scan complete
+2025-12-29 21:57:16,496 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<_20251229_215716.json'
+2025-12-29 22:06:12,339 INFO Scanning: <!DOCTYPE html>
+2025-12-29 22:06:12,439 WARNING Domain <!DOCTYPE html> does not exist (NXDOMAIN)
+2025-12-29 22:06:12,854 WARNING Connection error for https://<!DOCTYPE html>/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:06:13,860 WARNING Connection error for https://<!DOCTYPE html>/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:06:13,995 INFO Scan complete
+2025-12-29 22:06:14,009 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<!DOCTYPE html>_20251229_220614.json'
+2025-12-29 22:06:16,013 INFO Scanning: <html lang="en">
+2025-12-29 22:06:16,052 WARNING Domain <html lang="en"> does not exist (NXDOMAIN)
+2025-12-29 22:06:17,387 INFO Scanning: https://cloudflare.com
+2025-12-29 22:06:18,811 INFO HTTP Request: GET https://cloudflare.com/ "HTTP/1.1 301 Moved Permanently"
+2025-12-29 22:06:19,327 INFO HTTP Request: GET https://www.cloudflare.com/ "HTTP/1.1 200 OK"
+2025-12-29 22:06:19,375 INFO HTTP fetch successful: https://cloudflare.com/ (status=200, time=1.73s)
+2025-12-29 22:06:19,532 INFO Retrieved SSL certificate for cloudflare.com
+2025-12-29 22:06:21,124 WARNING Connection error for https://<html lang="en">/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:06:21,775 INFO HTTP Request: GET https://cloudflare.com/ "HTTP/1.1 301 Moved Permanently"
+2025-12-29 22:06:22,128 WARNING Connection error for https://<html lang="en">/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:06:22,236 INFO Scan complete
+2025-12-29 22:06:22,249 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<html lang="en">_20251229_220622.json'
+2025-12-29 22:06:22,431 INFO HTTP Request: GET https://www.cloudflare.com/ "HTTP/1.1 200 OK"
+2025-12-29 22:06:23,544 INFO Scan complete
+2025-12-29 22:21:16,322 INFO Scanning: https://cloudflare.com
+2025-12-29 22:21:16,613 INFO HTTP Request: GET https://cloudflare.com/ "HTTP/1.1 301 Moved Permanently"
+2025-12-29 22:21:17,067 INFO HTTP Request: GET https://www.cloudflare.com/ "HTTP/1.1 200 OK"
+2025-12-29 22:21:17,102 INFO HTTP fetch successful: https://cloudflare.com/ (status=200, time=0.64s)
+2025-12-29 22:21:17,294 INFO Retrieved SSL certificate for cloudflare.com
+2025-12-29 22:21:18,791 INFO HTTP Request: GET https://cloudflare.com/ "HTTP/1.1 301 Moved Permanently"
+2025-12-29 22:21:19,212 INFO HTTP Request: GET https://www.cloudflare.com/ "HTTP/1.1 200 OK"
+2025-12-29 22:21:20,217 INFO Scan complete
+2025-12-29 22:21:55,255 INFO Scanning: <!DOCTYPE html>
+2025-12-29 22:21:55,412 WARNING Domain <!DOCTYPE html> does not exist (NXDOMAIN)
+2025-12-29 22:21:55,674 WARNING Connection error for https://<!DOCTYPE html>/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:21:56,677 WARNING Connection error for https://<!DOCTYPE html>/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:21:56,741 INFO Scan complete
+2025-12-29 22:21:56,750 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<!DOCTYPE html>_20251229_222156.json'
+2025-12-29 22:21:58,752 INFO Scanning: <html lang="en">
+2025-12-29 22:21:58,951 WARNING Domain <html lang="en"> does not exist (NXDOMAIN)
+2025-12-29 22:21:59,566 WARNING Connection error for https://<html lang="en">/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:22:00,572 WARNING Connection error for https://<html lang="en">/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:22:00,673 INFO Scan complete
+2025-12-29 22:22:00,704 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<html lang="en">_20251229_222200.json'
+2025-12-29 22:22:02,709 INFO Scanning: <head>
+2025-12-29 22:22:02,769 WARNING Domain <head> does not exist (NXDOMAIN)
+2025-12-29 22:22:02,836 WARNING Connection error for https://<head>/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:22:03,840 WARNING Connection error for https://<head>/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:22:03,940 INFO Scan complete
+2025-12-29 22:22:03,951 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<head>_20251229_222203.json'
+2025-12-29 22:22:05,955 INFO Scanning: <meta charset="UTF-8">
+2025-12-29 22:22:05,998 WARNING Domain <meta charset="UTF-8"> does not exist (NXDOMAIN)
+2025-12-29 22:22:06,064 WARNING Connection error for https://<meta charset="UTF-8">/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:22:07,067 WARNING Connection error for https://<meta charset="UTF-8">/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:22:07,164 INFO Scan complete
+2025-12-29 22:22:07,185 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<meta charset="UTF-8">_20251229_222207.json'
+2025-12-29 22:22:09,187 INFO Scanning: <title>OWASP Compliance Test Target</title>
+2025-12-29 22:22:09,212 WARNING Domain <title>OWASP Compliance Test Target< does not exist (NXDOMAIN)
+2025-12-29 22:22:09,278 WARNING Connection error for https://<title>OWASP Compliance Test Target</title> (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:22:10,283 WARNING Connection error for https://<title>OWASP Compliance Test Target</title> (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:22:10,365 INFO Scan complete
+2025-12-29 22:22:10,376 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<title>OWASP Compliance Test Target<_20251229_222210.json'
+2025-12-29 22:22:12,378 INFO Scanning: <!-- ========================================== -->
+2025-12-29 22:22:12,406 WARNING Domain <!-- ========================================== --> does not exist (NXDOMAIN)
+2025-12-29 22:22:12,476 WARNING Connection error for https://<!-- ========================================== -->/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:22:13,481 WARNING Connection error for https://<!-- ========================================== -->/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:22:13,561 INFO Scan complete
+2025-12-29 22:22:13,577 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<!-- ========================================== -->_20251229_222213.json'
+2025-12-29 22:22:15,581 INFO Scanning: <!-- VULNERABILITY: A06:2021 - Vulnerable Components -->
+2025-12-29 22:22:15,607 WARNING Domain <!-- VULNERABILITY does not exist (NXDOMAIN)
+2025-12-29 22:22:15,709 ERROR Invalid URL: https://<!-- VULNERABILITY: A06:2021 - Vulnerable Components -->/
+2025-12-29 22:22:15,801 INFO Scan complete
+2025-12-29 22:22:15,813 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<!-- VULNERABILITY_20251229_222215.json'
+2025-12-29 22:22:17,816 INFO Scanning: <!-- We are intentionally loading an outdated, vulnerable version of jQuery (1.6.1). -->
+2025-12-29 22:22:17,843 WARNING Domain  --> does not exist (NXDOMAIN)
+2025-12-29 22:22:17,929 ERROR Unexpected error fetching https://<!-- We are intentionally loading an outdated, vulnerable version of jQuery (1.6.1). -->/: 'idna' codec can't encode characters in position 0-101: label too long
+2025-12-29 22:22:17,972 INFO Scan complete
+2025-12-29 22:22:17,979 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\ -->_20251229_222217.json'
+2025-12-29 22:22:19,983 INFO Scanning: <!-- Scanners should flag this as a known CVE library. -->
+2025-12-29 22:22:20,015 WARNING Domain  --> does not exist (NXDOMAIN)
+2025-12-29 22:22:20,087 ERROR Unexpected error fetching https://<!-- Scanners should flag this as a known CVE library. -->/: 'idna' codec can't encode characters in position 0-72: label too long
+2025-12-29 22:22:20,139 INFO Scan complete
+2025-12-29 22:22:20,147 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\ -->_20251229_222220.json'
+2025-12-29 22:22:22,149 INFO Scanning: <script src="https://code.jquery.com/jquery-1.6.1.min.js"></script>
+2025-12-29 22:22:22,172 WARNING Domain <script src="https does not exist (NXDOMAIN)
+2025-12-29 22:22:22,255 WARNING Connection error for https://<script src="https://code.jquery.com/jquery-1.6.1.min.js"></script> (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:22:23,258 WARNING Connection error for https://<script src="https://code.jquery.com/jquery-1.6.1.min.js"></script> (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:22:23,312 INFO Scan complete
+2025-12-29 22:22:23,321 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<script src="https_20251229_222223.json'
+2025-12-29 22:22:25,324 INFO Scanning: </head>
+2025-12-29 22:22:25,357 WARNING Domain < does not exist (NXDOMAIN)
+2025-12-29 22:22:25,426 WARNING Connection error for https://</head> (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:22:26,430 WARNING Connection error for https://</head> (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:22:26,512 INFO Scan complete
+2025-12-29 22:22:26,525 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<_20251229_222226.json'
+2025-12-29 22:22:28,527 INFO Scanning: <body>
+2025-12-29 22:22:28,556 WARNING Domain <body> does not exist (NXDOMAIN)
+2025-12-29 22:22:28,615 WARNING Connection error for https://<body>/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:22:29,618 WARNING Connection error for https://<body>/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:22:29,738 INFO Scan complete
+2025-12-29 22:22:29,752 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<body>_20251229_222229.json'
+2025-12-29 22:22:31,756 INFO Scanning: <h1>Security Scanner Test Page</h1>
+2025-12-29 22:22:31,790 WARNING Domain <h1>Security Scanner Test Page< does not exist (NXDOMAIN)
+2025-12-29 22:22:31,896 WARNING Connection error for https://<h1>Security Scanner Test Page</h1> (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:22:32,901 WARNING Connection error for https://<h1>Security Scanner Test Page</h1> (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:22:33,015 INFO Scan complete
+2025-12-29 22:22:33,029 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<h1>Security Scanner Test Page<_20251229_222233.json'
+2025-12-29 22:22:35,033 INFO Scanning: <p>This page is designed to trigger compliance failures.</p>
+2025-12-29 22:22:35,091 WARNING Domain < does not exist (NXDOMAIN)
+2025-12-29 22:22:35,165 ERROR Unexpected error fetching https://<p>This page is designed to trigger compliance failures.</p>: 'idna' codec can't encode characters in position 0-72: label too long
+2025-12-29 22:22:35,240 INFO Scan complete
+2025-12-29 22:22:35,250 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<_20251229_222235.json'
+2025-12-29 22:22:37,252 INFO Scanning: <!-- VULNERABILITY: A03:2021 - Injection (Reflected XSS) -->
+2025-12-29 22:22:37,290 WARNING Domain <!-- VULNERABILITY does not exist (NXDOMAIN)
+2025-12-29 22:22:37,364 ERROR Invalid URL: https://<!-- VULNERABILITY: A03:2021 - Injection (Reflected XSS) -->/
+2025-12-29 22:22:37,429 INFO Scan complete
+2025-12-29 22:22:37,449 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<!-- VULNERABILITY_20251229_222237.json'
+2025-12-29 22:22:39,453 INFO Scanning: <!--
+2025-12-29 22:22:39,557 WARNING Domain <!-- does not exist (NXDOMAIN)
+2025-12-29 22:22:39,637 WARNING Connection error for https://<!--/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:22:40,639 WARNING Connection error for https://<!--/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:22:40,714 INFO Scan complete
+2025-12-29 22:22:40,725 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<!--_20251229_222240.json'
+2025-12-29 22:22:42,727 INFO Scanning: Usage: Open this file in your browser with a query parameter.
+2025-12-29 22:22:42,753 WARNING Domain Usage does not exist (NXDOMAIN)
+2025-12-29 22:22:50,079 ERROR Invalid URL: https://Usage: Open this file in your browser with a query parameter./
+2025-12-29 22:22:52,847 INFO Scan complete
+2025-12-29 22:22:54,872 INFO Scanning: Example: test_scan.html?q=<script>alert(1)</script>
+2025-12-29 22:22:54,908 WARNING Domain Example does not exist (NXDOMAIN)
+2025-12-29 22:22:57,692 ERROR Invalid URL: https://Example: test_scan.html/?q=<script>alert(1)</script>
+2025-12-29 22:23:00,478 INFO Scan complete
+2025-12-29 22:23:02,525 INFO Scanning: The script below takes the 'q' parameter and writes it directly
+2025-12-29 22:23:03,179 WARNING Domain The script below takes the 'q' parameter and writes it directly does not exist (NXDOMAIN)
+2025-12-29 22:23:03,443 ERROR Unexpected error fetching https://The script below takes the 'q' parameter and writes it directly/: 'idna' codec can't encode characters in position 0-82: label too long
+2025-12-29 22:23:03,600 INFO Scan complete
+2025-12-29 22:23:05,685 INFO Scanning: to the page without sanitization. This is a Reflected XSS vulnerability.
+2025-12-29 22:23:05,712 WARNING Domain  This is a Reflected XSS vulnerability does not exist (NXDOMAIN)
+2025-12-29 22:23:05,789 WARNING Connection error for https://to the page without sanitization. This is a Reflected XSS vulnerability./ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:23:06,796 WARNING Connection error for https://to the page without sanitization. This is a Reflected XSS vulnerability./ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:23:06,935 INFO Scan complete
+2025-12-29 22:23:09,002 INFO Scanning: -->
+2025-12-29 22:23:09,035 WARNING Domain --> does not exist (NXDOMAIN)
+2025-12-29 22:23:09,111 WARNING Connection error for https://-->/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:23:10,115 WARNING Connection error for https://-->/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:23:10,183 INFO Scan complete
+2025-12-29 22:23:10,188 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\-->_20251229_222310.json'
+2025-12-29 22:23:12,191 INFO Scanning: <div id="search-output"></div>
+2025-12-29 22:23:12,229 WARNING Domain <div id="search-output">< does not exist (NXDOMAIN)
+2025-12-29 22:23:12,318 WARNING Connection error for https://<div id="search-output"></div> (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:23:13,321 WARNING Connection error for https://<div id="search-output"></div> (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:23:13,399 INFO Scan complete
+2025-12-29 22:23:13,409 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<div id="search-output"><_20251229_222313.json'
+2025-12-29 22:23:15,412 INFO Scanning: <script>
+2025-12-29 22:23:15,502 WARNING Domain <script> does not exist (NXDOMAIN)
+2025-12-29 22:23:15,688 WARNING Connection error for https://<script>/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:23:16,692 WARNING Connection error for https://<script>/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:23:16,770 INFO Scan complete
+2025-12-29 22:23:16,782 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<script>_20251229_222316.json'
+2025-12-29 22:23:18,786 INFO Scanning: // Simulate a search feature that reflects user input unsafely
+2025-12-29 22:23:18,792 ERROR Unexpected error fetching https://// Simulate a search feature that reflects user input unsafely: Request URL is missing an 'http://' or 'https://' protocol.
+2025-12-29 22:23:18,794 INFO Scan complete
+2025-12-29 22:23:20,864 INFO Scanning: const urlParams = new URLSearchParams(window.location.search);
+2025-12-29 22:23:20,902 WARNING Domain search); does not exist (NXDOMAIN)
+2025-12-29 22:23:20,985 WARNING Connection error for https://const urlParams = new URLSearchParams(window.location.search);/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:23:21,990 WARNING Connection error for https://const urlParams = new URLSearchParams(window.location.search);/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:23:22,127 INFO Scan complete
+2025-12-29 22:23:24,250 INFO Scanning: const userInput = urlParams.get('q');
+2025-12-29 22:23:24,282 WARNING Domain get('q'); does not exist (NXDOMAIN)
+2025-12-29 22:23:24,355 WARNING Connection error for https://const userInput = urlParams.get('q');/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:23:25,360 WARNING Connection error for https://const userInput = urlParams.get('q');/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:23:25,463 INFO Scan complete
+2025-12-29 22:23:27,579 INFO Scanning: if (userInput) {
+2025-12-29 22:23:27,606 WARNING Domain if (userInput) { does not exist (NXDOMAIN)
+2025-12-29 22:23:27,687 WARNING Connection error for https://if (userInput) {/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:23:28,694 WARNING Connection error for https://if (userInput) {/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:23:28,827 INFO Scan complete
+2025-12-29 22:23:30,911 INFO Scanning: // VULNERABLE CODE: Using innerHTML with user input
+2025-12-29 22:23:30,918 ERROR Unexpected error fetching https://// VULNERABLE CODE: Using innerHTML with user input: Request URL is missing an 'http://' or 'https://' protocol.
+2025-12-29 22:23:30,920 INFO Scan complete
+2025-12-29 22:23:33,020 INFO Scanning: document.getElementById('search-output').innerHTML = "Results for: " + userInput;
+2025-12-29 22:23:33,048 WARNING Domain innerHTML = "Results for does not exist (NXDOMAIN)
+2025-12-29 22:23:33,126 ERROR Invalid URL: https://document.getElementById('search-output').innerHTML = "Results for: " + userInput;/
+2025-12-29 22:23:33,230 INFO Scan complete
+2025-12-29 22:23:33,244 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\innerHTML = "Results for_20251229_222333.json'
+2025-12-29 22:23:35,247 INFO Scanning: }
+2025-12-29 22:23:35,287 WARNING Domain } does not exist (NXDOMAIN)
+2025-12-29 22:23:35,368 WARNING Connection error for https://}/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:23:36,374 WARNING Connection error for https://}/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:23:36,487 INFO Scan complete
+2025-12-29 22:23:38,561 INFO Scanning: </script>
+2025-12-29 22:23:38,587 WARNING Domain < does not exist (NXDOMAIN)
+2025-12-29 22:23:38,658 WARNING Connection error for https://</script> (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:23:39,664 WARNING Connection error for https://</script> (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:23:39,786 INFO Scan complete
+2025-12-29 22:23:39,802 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<_20251229_222339.json'
+2025-12-29 22:23:41,806 INFO Scanning: <!-- VULNERABILITY: A01:2021 - Broken Access Control -->
+2025-12-29 22:23:41,843 WARNING Domain <!-- VULNERABILITY does not exist (NXDOMAIN)
+2025-12-29 22:23:42,090 ERROR Invalid URL: https://<!-- VULNERABILITY: A01:2021 - Broken Access Control -->/
+2025-12-29 22:23:42,210 INFO Scan complete
+2025-12-29 22:23:42,221 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<!-- VULNERABILITY_20251229_222342.json'
+2025-12-29 22:23:44,225 INFO Scanning: In a real app, this link would access a user profile via a predictable ID.
+2025-12-29 22:23:44,237 ERROR Unexpected error fetching https://In a real app, this link would access a user profile via a predictable ID./: 'idna' codec can't encode characters in position 0-100: label too long
+2025-12-29 22:23:44,349 ERROR Unexpected error retrieving certificate for In a real app, this link would access a user profile via a predictable ID: 'idna' codec can't encode characters in position 0-72: label too long
+2025-12-29 22:23:44,350 INFO Scan complete
+2025-12-29 22:23:46,433 INFO Scanning: A scanner or manual tester would try changing 'id=123' to 'id=124'
+2025-12-29 22:23:46,442 ERROR Unexpected error fetching https://A scanner or manual tester would try changing 'id=123' to 'id=124'/: 'idna' codec can't encode characters in position 0-85: label too long
+2025-12-29 22:23:46,537 ERROR Unexpected error retrieving certificate for A scanner or manual tester would try changing 'id=123' to 'id=124': 'idna' codec can't encode characters in position 0-65: label too long
+2025-12-29 22:23:46,541 INFO Scan complete
+2025-12-29 22:23:48,630 INFO Scanning: to see if they can access another user's data.
+2025-12-29 22:23:48,655 WARNING Domain to see if they can access another user's data does not exist (NXDOMAIN)
+2025-12-29 22:23:48,730 WARNING Connection error for https://to see if they can access another user's data./ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:23:49,733 WARNING Connection error for https://to see if they can access another user's data./ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:23:49,798 INFO Scan complete
+2025-12-29 22:23:51,862 INFO Scanning: <a href="/api/user/profile?id=123">View My Profile</a>
+2025-12-29 22:23:51,901 WARNING Domain <a href=" does not exist (NXDOMAIN)
+2025-12-29 22:23:51,977 WARNING Connection error for https://<a href="/api/user/profile?id=123">View My Profile</a> (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:23:52,979 WARNING Connection error for https://<a href="/api/user/profile?id=123">View My Profile</a> (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:23:53,071 INFO Scan complete
+2025-12-29 22:23:53,085 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<a href="_20251229_222353.json'
+2025-12-29 22:23:55,087 INFO Scanning: <!-- NOTE FOR SCANNER CHECKS: A02 & A05 -->
+2025-12-29 22:23:55,111 WARNING Domain <!-- NOTE FOR SCANNER CHECKS does not exist (NXDOMAIN)
+2025-12-29 22:23:55,184 ERROR Invalid URL: https://<!-- NOTE FOR SCANNER CHECKS: A02 & A05 -->/
+2025-12-29 22:23:55,242 INFO Scan complete
+2025-12-29 22:23:55,252 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<!-- NOTE FOR SCANNER CHECKS_20251229_222355.json'
+2025-12-29 22:23:57,255 INFO Scanning: A02 (Crypto Failures) & A05 (Security Misconfiguration)
+2025-12-29 22:23:57,283 WARNING Domain A02 (Crypto Failures) & A05 (Security Misconfiguration) does not exist (NXDOMAIN)
+2025-12-29 22:23:57,358 ERROR Unexpected error fetching https://A02 (Crypto Failures) & A05 (Security Misconfiguration)/: 'idna' codec can't encode characters in position 0-66: label too long
+2025-12-29 22:23:57,422 INFO Scan complete
+2025-12-29 22:23:59,484 INFO Scanning: rely on Server Headers, not just HTML content.
+2025-12-29 22:23:59,557 WARNING Domain rely on Server Headers, not just HTML content does not exist (NXDOMAIN)
+2025-12-29 22:23:59,636 WARNING Connection error for https://rely on Server Headers, not just HTML content./ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:24:00,641 WARNING Connection error for https://rely on Server Headers, not just HTML content./ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:24:00,736 INFO Scan complete
+2025-12-29 22:24:02,793 INFO Scanning: To trigger these, ensure this file is served via HTTP (not HTTPS).
+2025-12-29 22:24:02,804 ERROR Unexpected error fetching https://To trigger these, ensure this file is served via HTTP (not HTTPS)./: 'idna' codec can't encode characters in position 0-86: label too long
+2025-12-29 22:24:02,909 ERROR Unexpected error retrieving certificate for To trigger these, ensure this file is served via HTTP (not HTTPS): 'idna' codec can't encode characters in position 0-64: label too long
+2025-12-29 22:24:02,913 INFO Scan complete
+2025-12-29 22:24:05,003 INFO Scanning: Also, ensure your server does NOT send headers like:
+2025-12-29 22:24:05,043 WARNING Domain Also, ensure your server does NOT send headers like does not exist (NXDOMAIN)
+2025-12-29 22:24:05,309 ERROR Unexpected error fetching https://Also, ensure your server does NOT send headers like:/: 'idna' codec can't encode characters in position 0-66: label too long
+2025-12-29 22:24:05,463 INFO Scan complete
+2025-12-29 22:24:07,575 INFO Scanning: - X-Frame-Options
+2025-12-29 22:24:07,649 WARNING Domain - X-Frame-Options does not exist (NXDOMAIN)
+2025-12-29 22:24:07,714 WARNING Connection error for https://- X-Frame-Options/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:24:08,718 WARNING Connection error for https://- X-Frame-Options/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:24:08,823 INFO Scan complete
+2025-12-29 22:24:10,877 INFO Scanning: - Content-Security-Policy
+2025-12-29 22:24:10,945 WARNING Domain - Content-Security-Policy does not exist (NXDOMAIN)
+2025-12-29 22:24:11,018 WARNING Connection error for https://- Content-Security-Policy/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:24:12,023 WARNING Connection error for https://- Content-Security-Policy/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:24:12,145 INFO Scan complete
+2025-12-29 22:24:14,244 INFO Scanning: - X-Content-Type-Options
+2025-12-29 22:24:14,268 WARNING Domain - X-Content-Type-Options does not exist (NXDOMAIN)
+2025-12-29 22:24:14,333 WARNING Connection error for https://- X-Content-Type-Options/ (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:24:15,338 WARNING Connection error for https://- X-Content-Type-Options/ (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:24:15,463 INFO Scan complete
+2025-12-29 22:24:17,555 INFO Scanning: </body>
+2025-12-29 22:24:17,588 WARNING Domain < does not exist (NXDOMAIN)
+2025-12-29 22:24:17,674 WARNING Connection error for https://</body> (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:24:18,681 WARNING Connection error for https://</body> (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:24:18,832 INFO Scan complete
+2025-12-29 22:24:18,850 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<_20251229_222418.json'
+2025-12-29 22:24:20,853 INFO Scanning: </html>
+2025-12-29 22:24:20,907 WARNING Domain < does not exist (NXDOMAIN)
+2025-12-29 22:24:21,078 WARNING Connection error for https://</html> (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:24:22,083 WARNING Connection error for https://</html> (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 22:24:22,227 INFO Scan complete
+2025-12-29 22:24:22,238 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<_20251229_222422.json'
+2025-12-29 22:28:06,605 INFO Scanning: X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*

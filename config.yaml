@@ -1,0 +1,79 @@
+http_timeout: 10
+verify_ssl: false
+user_agent: WebsiteScanner/1.0
+max_redirects: 10
+auto_save_reports: true
+reports_dir: reports
+logs_dir: logs
+history_limit: 1000
+api_host: 127.0.0.1
+api_port: 8001
+streamlit_port: 8501
+batch_delay: 2.0
+batch_max_concurrent: 5
+risk_thresholds:
+  high_score: 50
+  medium_score: 25
+  low_score: 0
+risk_weights:
+  https_missing: 30
+  ssl_error: 25
+  ssl_expired: 35
+  ssl_expiring_soon: 10
+  headers_low: 20
+  headers_medium: 10
+  domain_very_new: 25
+  domain_recent: 15
+  suspicious_tld: 15
+  excessive_redirects: 10
+compliance_thresholds:
+  excellent: 90
+  good: 70
+  fair: 50
+  poor: 30
+advanced_weights:
+  https: 15
+  ssl_quality: 15
+  security_headers: 20
+  certificate_validation: 10
+  domain_reputation: 10
+  redirect_safety: 5
+  cookie_security: 5
+  content_security: 10
+  dns_security: 5
+  response_security: 5
+ssl_expiry_warning_days: 30
+ssl_min_days_excellent: 365
+ssl_min_days_good: 180
+ssl_min_days_fair: 90
+domain_age_excellent: 1825
+domain_age_good: 730
+domain_age_fair: 365
+domain_age_new: 90
+domain_age_very_new: 30
+headers_min_count_good: 4
+headers_score_excellent: 80
+headers_score_good: 60
+headers_score_fair: 40
+rate_limit_delay: 1.0
+virustotal_rate_limit: 15
+sslabs_rate_limit: 10
+suspicious_tlds:
+- .tk
+- .ml
+- .ga
+- .cf
+- .gq
+- .top
+- .xyz
+- .click
+- .link
+- .loan
+trusted_cas:
+- Let's Encrypt
+- DigiCert
+- Sectigo
+- GlobalSign
+- GoDaddy
+- Comodo
+- Entrust

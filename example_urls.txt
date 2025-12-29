@@ -1,0 +1,21 @@
+# Security Testing URLs - Safe to scan
+# Intentionally vulnerable/test sites for security research
+
+# OWASP test applications
+http://testphp.vulnweb.com/
+http://testfire.net/
+
+# Known vulnerable test sites (educational)
+http://zero.webappsecurity.com/
+https://demo.testfire.net/
+
+# Suspicious TLD patterns (legal to scan)
+https://example.tk
+https://freehosting.com
+
+# Recently registered domains (research)
+https://newdomaintest.com
+
+# HTTP (no HTTPS) sites
+http://neverssl.com/
+http://example.org
