@@ -335,13 +335,26 @@ def format_compliance_report(compliance: Dict) -> str:
         output.append(f"\n{icon} {data['standard']}: {score:.1f}%")
         output.append(f"   Passed: {data['passed']}/{data['total']} checks")
         
-        for check_id, check in data['checks'].items():
-            check_icon = '✅' if check['compliant'] else '❌'
-            name = check.get('name', check_id)
-            details = check.get('details', '')
-            output.append(f"     {check_icon} {name}")
-            if details:
-                output.append(f"        {details}")
+        # Handle both list and dict formats for checks
+        checks = data['checks']
+        if isinstance(checks, list):
+            # New list format
+            for check in checks:
+                check_icon = '✅' if check.get('compliant') else '❌'
+                name = check.get('name', check.get('id', 'Unknown'))
+                details = check.get('details', '')
+                output.append(f"     {check_icon} {name}")
+                if details:
+                    output.append(f"        {details}")
+        else:
+            # Old dict format (for backwards compatibility)
+            for check_id, check in checks.items():
+                check_icon = '✅' if check['compliant'] else '❌'
+                name = check.get('name', check_id)
+                details = check.get('details', '')
+                output.append(f"     {check_icon} {name}")
+                if details:
+                    output.append(f"        {details}")
     
     output.append("\n" + "=" * 80)
     return "\n".join(output)

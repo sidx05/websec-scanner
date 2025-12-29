@@ -1662,3 +1662,19 @@ pip install python-multipart
 2025-12-29 22:24:22,227 INFO Scan complete
 2025-12-29 22:24:22,238 WARNING Failed to auto-save report: [Errno 22] Invalid argument: 'reports\\<_20251229_222422.json'
 2025-12-29 22:28:06,605 INFO Scanning: X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*
+2025-12-29 23:03:23,911 INFO Scanning: http://aria-asp.ir/k7cwvi
+2025-12-29 23:03:24,556 WARNING Domain aria-asp.ir does not exist (NXDOMAIN)
+2025-12-29 23:03:32,463 WARNING Connection error for http://aria-asp.ir/k7cwvi (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 23:03:33,467 WARNING Connection error for http://aria-asp.ir/k7cwvi (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 23:03:45,363 ERROR Error trying to connect to socket: closing socket - timed out
+2025-12-29 23:03:45,365 INFO Scan complete
+2025-12-29 23:05:12,151 INFO Scanning: http://aria-asp.ir/k7cwvi
+2025-12-29 23:05:12,450 WARNING Domain aria-asp.ir does not exist (NXDOMAIN)
+2025-12-29 23:05:13,610 WARNING Connection error for http://aria-asp.ir/k7cwvi (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 23:05:14,615 WARNING Connection error for http://aria-asp.ir/k7cwvi (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 23:05:18,265 INFO Scan complete
+2025-12-29 23:07:43,777 INFO Scanning: http://aria-asp.ir/k7cwvi
+2025-12-29 23:07:43,904 WARNING Domain aria-asp.ir does not exist (NXDOMAIN)
+2025-12-29 23:07:49,522 WARNING Connection error for http://aria-asp.ir/k7cwvi (attempt 1/2): [Errno 11001] getaddrinfo failed
+2025-12-29 23:07:50,526 WARNING Connection error for http://aria-asp.ir/k7cwvi (attempt 2/2): [Errno 11001] getaddrinfo failed
+2025-12-29 23:07:53,897 INFO Scan complete
