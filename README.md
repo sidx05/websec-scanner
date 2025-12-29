@@ -3,7 +3,7 @@
 [![DevSecOps](https://img.shields.io/badge/DevSecOps-Enabled-blue?style=flat-square)](https://www.devsecops.org/)
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions)](https://github.com/features/actions)
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+
 
 **Production-ready security posture analyzer** built for **DevSecOps workflows**. Provides automated, passive security assessment of web applications with **compliance mapping**, **CI/CD integration**, and **phishing detection**. Shift security left with automated pull request scanning and configurable quality gates.
 
@@ -284,7 +284,6 @@ security-posture-analyzer/
 ├── whois_utils.py          # Domain registration lookups
 ├── config.yaml             # Configuration file
 ├── requirements.txt        # Python dependencies
-├── LICENSE                 # MIT License
 ├── README.md               # This file
 └── .github/
     └── workflows/
@@ -497,12 +496,6 @@ This tool is designed for **DEFENSIVE SECURITY** and **DevSecOps practices**:
 - Malicious or unethical activities
 
 **Legal Notice:** Users are solely responsible for ensuring compliance with applicable laws and regulations. Unauthorized security testing may be illegal in your jurisdiction.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
