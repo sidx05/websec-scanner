@@ -251,21 +251,24 @@ def main():
                                 if not isinstance(category_scores, dict):
                                     category_scores = {}
                                 
-                                # Specific compliance details
-                                owasp_checks = compliance.get('owasp_top10', {}).get('checks', [])
-                                if not isinstance(owasp_checks, list):
-                                    owasp_checks = []
-                                owasp_failures = [c.get('name', 'Unknown') for c in owasp_checks if isinstance(c, dict) and c.get('status') != 'PASS']
+                                # Extract compliance standards (fixed to use correct nested path)
+                                compliance_standards = compliance.get('standards', {})
                                 
-                                pci_checks = compliance.get('pci_dss', {}).get('checks', [])
-                                if not isinstance(pci_checks, list):
-                                    pci_checks = []
-                                pci_failures = [c.get('name', 'Unknown') for c in pci_checks if isinstance(c, dict) and c.get('status') != 'PASS']
+                                # Specific compliance details - checks are stored as dicts, not lists
+                                owasp_checks = compliance_standards.get('owasp_top10', {}).get('checks', {})
+                                if not isinstance(owasp_checks, dict):
+                                    owasp_checks = {}
+                                owasp_failures = [name for name, check in owasp_checks.items() if isinstance(check, dict) and not check.get('compliant', False)]
                                 
-                                gdpr_checks = compliance.get('gdpr_security', {}).get('checks', [])
-                                if not isinstance(gdpr_checks, list):
-                                    gdpr_checks = []
-                                gdpr_failures = [c.get('name', 'Unknown') for c in gdpr_checks if isinstance(c, dict) and c.get('status') != 'PASS']
+                                pci_checks = compliance_standards.get('pci_dss', {}).get('checks', {})
+                                if not isinstance(pci_checks, dict):
+                                    pci_checks = {}
+                                pci_failures = [check.get('name', name) for name, check in pci_checks.items() if isinstance(check, dict) and not check.get('compliant', False)]
+                                
+                                gdpr_checks = compliance_standards.get('gdpr', {}).get('checks', {})
+                                if not isinstance(gdpr_checks, dict):
+                                    gdpr_checks = {}
+                                gdpr_failures = [check.get('name', name) for name, check in gdpr_checks.items() if isinstance(check, dict) and not check.get('compliant', False)]
                                 
                                 # Phishing indicators
                                 phishing_indicators = url_info.get('phishing_indicators', [])
@@ -292,10 +295,10 @@ def main():
                                     'medium_issues': len([r for r in recommendations if r.get('priority') == 'MEDIUM']),
                                     'low_issues': len([r for r in recommendations if r.get('priority') == 'LOW']),
                                     'all_recommendations': [{'issue': r.get('issue'), 'priority': r.get('priority'), 'impact': r.get('impact')} for r in recommendations],
-                                    'owasp_score': compliance.get('owasp_top10', {}).get('score', 0) if isinstance(compliance.get('owasp_top10'), dict) else 0,
-                                    'pci_score': compliance.get('pci_dss', {}).get('score', 0) if isinstance(compliance.get('pci_dss'), dict) else 0,
-                                    'gdpr_score': compliance.get('gdpr_security', {}).get('score', 0) if isinstance(compliance.get('gdpr_security'), dict) else 0,
-                                    'nist_score': compliance.get('nist_csf', {}).get('score', 0) if isinstance(compliance.get('nist_csf'), dict) else 0,
+                                    'owasp_score': compliance_standards.get('owasp_top10', {}).get('score', 0) if isinstance(compliance_standards.get('owasp_top10'), dict) else 0,
+                                    'pci_score': compliance_standards.get('pci_dss', {}).get('score', 0) if isinstance(compliance_standards.get('pci_dss'), dict) else 0,
+                                    'gdpr_score': compliance_standards.get('gdpr', {}).get('score', 0) if isinstance(compliance_standards.get('gdpr'), dict) else 0,
+                                    'nist_score': compliance_standards.get('nist_csf', {}).get('score', 0) if isinstance(compliance_standards.get('nist_csf'), dict) else 0,
                                     'owasp_failures': owasp_failures,
                                     'pci_failures': pci_failures,
                                     'gdpr_failures': gdpr_failures,
@@ -364,12 +367,25 @@ def main():
                         
                         # Executive Summary Box
                         st.markdown("---")
-                        overall_health = "🟢 EXCELLENT" if avg_compliance >= 80 else "🟡 NEEDS IMPROVEMENT" if avg_compliance >= 60 else "🔴 CRITICAL"
+                        # Calculate overall health based on multiple factors (not just compliance score)
+                        if high_risk > 0 or total_critical > 0:
+                            overall_health = "🔴 CRITICAL"
+                            health_desc = f"Identified {high_risk} high-risk site(s) and {total_critical} critical issue(s) requiring immediate attention."
+                        elif medium_risk > 0 or avg_compliance < 60 or avg_headers < 40:
+                            overall_health = "🟡 NEEDS IMPROVEMENT"
+                            health_desc = f"Found {medium_risk} medium-risk site(s) with compliance at {avg_compliance:.1f}%. Security improvements recommended."
+                        elif avg_compliance >= 80 and avg_headers >= 70:
+                            overall_health = "🟢 EXCELLENT"
+                            health_desc = f"All {successful} site(s) show strong security posture with {avg_compliance:.1f}% compliance."
+                        else:
+                            overall_health = "🟢 GOOD"
+                            health_desc = f"Scanned {successful} site(s) - security posture is acceptable with {avg_compliance:.1f}% compliance."
+                        
                         st.markdown(f"""
                         <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; color: white; margin: 10px 0;">
                             <h2 style="margin: 0; color: white;">📊 Executive Summary</h2>
                             <h3 style="margin: 10px 0; color: white;">Overall Security Health: {overall_health}</h3>
-                            <p style="margin: 5px 0;">Scanned {successful} site(s) across your infrastructure. Identified {high_risk} critical security concern(s) requiring immediate attention.</p>
+                            <p style="margin: 5px 0;">{health_desc}</p>
                         </div>
                         """, unsafe_allow_html=True)
                         
@@ -835,23 +851,23 @@ def main():
                                     https_pct = (https_enabled / len(successful_scans) * 100) if successful_scans else 0
                                     
                                     fig_gauge = go.Figure(go.Indicator(
-                                        mode="gauge+number+delta",
+                                        mode="gauge+number",
                                         value=https_pct,
                                         domain={'x': [0, 1], 'y': [0, 1]},
                                         title={'text': "HTTPS Adoption %"},
-                                        delta={'reference': 100},
+                                        number={'suffix': "%"},
                                         gauge={
                                             'axis': {'range': [None, 100]},
-                                            'bar': {'color': "#667eea"},
+                                            'bar': {'color': "#44ff44" if https_pct >= 80 else "#ffaa00" if https_pct >= 50 else "#ff4444"},
                                             'steps': [
-                                                {'range': [0, 50], 'color': "#ffdddd"},
-                                                {'range': [50, 80], 'color': "#ffffdd"},
-                                                {'range': [80, 100], 'color': "#ddffdd"}
+                                                {'range': [0, 50], 'color': "#2a2a2a"},
+                                                {'range': [50, 80], 'color': "#3a3a3a"},
+                                                {'range': [80, 100], 'color': "#1a4a1a"}
                                             ],
                                             'threshold': {
-                                                'line': {'color': "red", 'width': 4},
+                                                'line': {'color': "white", 'width': 2},
                                                 'thickness': 0.75,
-                                                'value': 90
+                                                'value': https_pct
                                             }
                                         }
                                     ))
