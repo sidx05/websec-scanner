@@ -7,11 +7,12 @@ import socket
 import ssl
 import time
 import logging
+import re
 from datetime import datetime
 from typing import Optional
 import dns.resolver
 import httpx
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urljoin
 from retry_utils import retry_with_backoff, is_retryable_error
 
 logger = logging.getLogger(__name__)
@@ -114,6 +115,47 @@ def perform_dns_lookup(domain: str) -> dict:
     return records
 
 
+def extract_meta_refresh_url(html_content: str, base_url: str) -> Optional[str]:
+    """
+    Extract redirect URL from HTML meta refresh tag or JavaScript redirects.
+    
+    Args:
+        html_content: HTML content as string
+        base_url: Base URL for resolving relative URLs
+        
+    Returns:
+        Redirect URL if found, None otherwise
+    """
+    try:
+        # Pattern 1: <meta http-equiv="refresh" content="0; URL=https://example.com">
+        # Handles various formats with/without quotes, spaces, etc.
+        patterns = [
+            r'<meta[^>]*http-equiv\s*=\s*["\']?refresh["\']?[^>]*content\s*=\s*["\']?\d+\s*;\s*url\s*=\s*["\']?([^"\'>\s]+)',
+            r'<meta[^>]*content\s*=\s*["\']?\d+\s*;\s*url\s*=\s*["\']?([^"\'>\s]+)["\']?[^>]*http-equiv\s*=\s*["\']?refresh',
+            # Pattern 2: JavaScript window.location redirects
+            r'window\.location(?:\s*=\s*|\.\s*(?:href|replace)\s*\(\s*)["\']([^"\']+)["\']',
+            r'location\.(?:href|replace)\s*(?:=\s*["\']|[\(]\s*["\'])([^"\']+)',
+            r'document\.location\s*=\s*["\']([^"\']+)["\']',
+        ]
+        
+        for pattern in patterns:
+            match = re.search(pattern, html_content, re.IGNORECASE | re.DOTALL)
+            if match:
+                redirect_url = match.group(1).strip()
+                # Remove any trailing characters
+                redirect_url = redirect_url.rstrip('";\')')
+                # Resolve relative URLs
+                absolute_url = urljoin(base_url, redirect_url)
+                redirect_type = 'meta refresh' if 'meta' in pattern else 'JavaScript'
+                logger.info(f"{redirect_type} redirect detected: {base_url} -> {absolute_url}")
+                return absolute_url
+            
+    except Exception as e:
+        logger.debug(f"Error parsing redirect: {e}")
+    
+    return None
+
+
 def fetch_http_info(url: str, timeout: int = 10, max_retries: int = 2) -> NetworkInfo:
     """
     Fetch HTTP response information with retry logic and comprehensive error handling.
@@ -164,8 +206,58 @@ def fetch_http_info(url: str, timeout: int = 10, max_retries: int = 2) -> Networ
                         'status': resp.status_code
                     })
                 
+                # Check for client-side redirects (meta refresh, JavaScript) in HTML
+                max_client_redirects = 3  # Limit to prevent infinite loops
+                current_url = str(response.url)
+                current_response = response
+                client_redirect_count = 0
+                visited_urls = {url, current_url}  # Track visited URLs to detect loops
+                
+                while 'text/html' in current_response.headers.get('content-type', '').lower():
+                    try:
+                        html_content = current_response.text
+                        redirect_url = extract_meta_refresh_url(html_content, current_url)
+                        
+                        if not redirect_url or redirect_url in visited_urls:
+                            break  # No redirect found or loop detected
+                        
+                        if client_redirect_count >= max_client_redirects:
+                            logger.warning(f"Max client-side redirects ({max_client_redirects}) reached")
+                            break
+                        
+                        # Add current page to redirect chain
+                        info.redirect_chain.append({
+                            'url': current_url,
+                            'status': current_response.status_code,
+                            'type': 'client-side'
+                        })
+                        
+                        # Follow the redirect
+                        logger.info(f"Following client-side redirect to: {redirect_url}")
+                        current_response = client.get(redirect_url)
+                        current_url = str(current_response.url)
+                        visited_urls.add(redirect_url)
+                        visited_urls.add(current_url)
+                        client_redirect_count += 1
+                        
+                        # Update info with the new destination
+                        info.final_url = current_url
+                        info.status_code = current_response.status_code
+                        info.https_enabled = current_response.url.scheme == 'https'
+                        
+                        # Add any HTTP redirects from this request
+                        for resp in current_response.history:
+                            info.redirect_chain.append({
+                                'url': str(resp.url),
+                                'status': resp.status_code
+                            })
+                        
+                    except Exception as e:
+                        logger.warning(f"Failed to follow client-side redirect: {e}")
+                        break
+                
                 # Check protocol
-                info.https_enabled = response.url.scheme == 'https'
+                info.https_enabled = current_response.url.scheme == 'https'
                 
                 logger.info(f"HTTP fetch successful: {url} (status={response.status_code}, time={info.response_time:.2f}s)")
                 return info

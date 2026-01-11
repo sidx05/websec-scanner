@@ -119,6 +119,9 @@ class WebsiteScanner:
             
             if http_info.error:
                 self.results['network_info']['http_error'] = http_info.error
+                # Set final_url to original URL when there's an error
+                self.results['url_info']['final_url'] = normalized_url
+                self.results['url_info']['redirect_count'] = 0
             else:
                 self.results['network_info'].update({
                     'status_code': http_info.status_code,
@@ -133,6 +136,9 @@ class WebsiteScanner:
                 self.results['url_info']['redirect_count'] = len(http_info.redirect_chain)
         except Exception as e:
             self.results['network_info']['http_error'] = str(e)
+            # Set final_url to original URL when there's an exception
+            self.results['url_info']['final_url'] = normalized_url
+            self.results['url_info']['redirect_count'] = 0
         
         # Step 5: SSL Certificate check
         logging.debug("Checking SSL certificate...")
